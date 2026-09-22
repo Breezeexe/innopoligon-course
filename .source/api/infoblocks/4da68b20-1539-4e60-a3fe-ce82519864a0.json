@@ -1,0 +1,14 @@
+{
+  "name": "Преимущества LOLBins: минимум следов в EDR-детекциях",
+  "description": "Конспект «Преимущества LOLBins: минимум следов в EDR-детекциях»",
+  "uuid": "4da68b20-1539-4e60-a3fe-ce82519864a0",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5083370363.md",
+      "original_id": "Преимущества LOLBins： минимум следов в EDR-детекциях.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

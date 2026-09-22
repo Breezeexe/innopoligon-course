@@ -1,0 +1,14 @@
+{
+  "name": "DNS Spoofing в локальной сети",
+  "description": "Конспект «DNS Spoofing в локальной сети»",
+  "uuid": "b9b2425a-a81d-4c64-b88d-7f390bbdb4e4",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2114368025.md",
+      "original_id": "DNS Spoofing в локальной сети.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 308,
+  "name": "Практика",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5052-390000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": 1203,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1204,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1205,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1206,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1203,
+      "name": "Практика - Типы SQL Injection",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "a57198b0-4d67-4a60-b26c-d0559cf7c453",
+      "uuid": "50454e54-4553-542d-5033-350000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1204,
+      "name": "Практика - Атаки на NoSQL базы данных",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "320328ca-068f-465c-b647-4d4a9de4addb",
+      "uuid": "50454e54-4553-542d-5033-360000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1205,
+      "name": "Практика - Автоматизация через SQLmap",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "612faf2c-1f25-40d0-b1ca-a7a88f04743c",
+      "uuid": "50454e54-4553-542d-5033-370000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1206,
+      "name": "Практика - Прямые атаки на DB-сервисы",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "4912beb5-6718-4e48-8c68-68a9600325c7",
+      "uuid": "50454e54-4553-542d-5033-380000000000"
+    }
+  ],
+  "infoblocks": [],
+  "infoblocks_solved": []
+}

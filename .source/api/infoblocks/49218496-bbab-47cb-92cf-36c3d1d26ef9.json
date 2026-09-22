@@ -1,0 +1,14 @@
+{
+  "name": "Конфигурация scan target и task для сканирования",
+  "description": "Конспект «Конфигурация scan target и task для сканирования»",
+  "uuid": "49218496-bbab-47cb-92cf-36c3d1d26ef9",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8232139039.md",
+      "original_id": "Конфигурация scan target и task для сканирования.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

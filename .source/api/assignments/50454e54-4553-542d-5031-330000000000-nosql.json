@@ -1,0 +1,35 @@
+{
+  "files": [],
+  "tests": [
+    {
+      "id": 1,
+      "quest": "Какой флаг прочитан командой, прошедшей сигнатурный детектор?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 2,
+      "quest": "Какой флаг напечатал reveal.ps1 после обхода AMSI?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    }
+  ],
+  "legend": null,
+  "assignment_uuid": "50454e54-4553-542d-5031-330000000000",
+  "version_by_user": null,
+  "attempt": 1
+}

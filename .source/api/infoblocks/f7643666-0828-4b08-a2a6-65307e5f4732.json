@@ -1,0 +1,14 @@
+{
+  "name": "Обфускация webshell для обхода антивируса",
+  "description": "Конспект «Обфускация webshell для обхода антивируса»",
+  "uuid": "f7643666-0828-4b08-a2a6-65307e5f4732",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8303557301.md",
+      "original_id": "Обфускация webshell для обхода антивируса.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

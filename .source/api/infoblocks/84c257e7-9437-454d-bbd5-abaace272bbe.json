@@ -1,0 +1,14 @@
+{
+  "name": "Эксплуатация EternalBlue (MS17-010) на устаревших Windows",
+  "description": "Конспект «Эксплуатация EternalBlue (MS17-010) на устаревших Windows»",
+  "uuid": "84c257e7-9437-454d-bbd5-abaace272bbe",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3183167386.md",
+      "original_id": "Эксплуатация EternalBlue (MS17-010) на устаревших Windows.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

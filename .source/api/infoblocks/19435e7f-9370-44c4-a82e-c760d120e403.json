@@ -1,0 +1,14 @@
+{
+  "name": "Атаки на RDP",
+  "description": "Конспект «Атаки на RDP»",
+  "uuid": "19435e7f-9370-44c4-a82e-c760d120e403",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5884519068.md",
+      "original_id": "Атаки на RDP.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

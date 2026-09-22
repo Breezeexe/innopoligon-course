@@ -1,0 +1,14 @@
+{
+  "name": "Passive DNS",
+  "description": "Конспект «Passive DNS»",
+  "uuid": "0a576473-fc84-4c9f-aaa3-4345a027e00f",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8478393128.md",
+      "original_id": "Passive DNS.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

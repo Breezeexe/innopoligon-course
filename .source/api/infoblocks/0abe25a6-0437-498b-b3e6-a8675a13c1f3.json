@@ -1,0 +1,14 @@
+{
+  "name": "GoPhish как open-source платформа управления фишинг-кампаниями",
+  "description": "Конспект «GoPhish как open-source платформа управления фишинг-кампаниями»",
+  "uuid": "0abe25a6-0437-498b-b3e6-a8675a13c1f3",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5971255968.md",
+      "original_id": "GoPhish как open-source платформа управления фишинг-кампаниями.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

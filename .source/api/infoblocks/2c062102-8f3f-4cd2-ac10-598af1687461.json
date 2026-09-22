@@ -1,0 +1,14 @@
+{
+  "name": "In-band SQLi: Union-based и Error-based техники",
+  "description": "Конспект «In-band SQLi: Union-based и Error-based техники»",
+  "uuid": "2c062102-8f3f-4cd2-ac10-598af1687461",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9496374355.md",
+      "original_id": "In-band SQLi： Union-based и Error-based техники.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

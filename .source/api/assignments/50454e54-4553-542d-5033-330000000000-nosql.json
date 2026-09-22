@@ -1,0 +1,87 @@
+{
+  "files": [],
+  "tests": [
+    {
+      "id": 1,
+      "quest": "Какой флаг лежит в каталоге учётной записи rdpuser?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 2,
+      "quest": "Какой пароль rdpuser подобран брутфорсом?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 3,
+      "quest": "Какая реализация службы удалённого рабочего стола определяется сканером версий на порту 3390?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 4,
+      "quest": "Какой уровень шифрования задан в конфигурации этой службы?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 5,
+      "quest": "Какой флаг лежит в домашнем каталоге rdpuser на rdpweak?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 6,
+      "quest": "Какой флаг лежит в каталоге второй учётной записи на rdpweak?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    }
+  ],
+  "legend": null,
+  "assignment_uuid": "50454e54-4553-542d-5033-330000000000",
+  "version_by_user": null,
+  "attempt": 1
+}

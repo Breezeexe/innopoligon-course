@@ -1,0 +1,14 @@
+{
+  "name": "Перечисление SMB-ресурсов через enum4linux и smbclient",
+  "description": "Конспект «Перечисление SMB-ресурсов через enum4linux и smbclient»",
+  "uuid": "07367ecc-8a7d-4a4f-b58a-0c09f15cadbe",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8386063770.md",
+      "original_id": "Перечисление SMB-ресурсов через enum4linux и smbclient.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

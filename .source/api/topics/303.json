@@ -1,0 +1,367 @@
+{
+  "id": 303,
+  "name": "Теория",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5437-000000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": "23b7a61e-8dcd-456c-85b2-d32f378cf1c6",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "5fb1d6a1-bdeb-49e4-980f-9f89b048f217",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "233bb506-4479-4a46-8dd2-9559562e1cc4",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "5efaf270-2445-4999-8c4c-d881d824f4fa",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "71f84829-1a3f-4360-93e0-1e0a7bd99f49",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "6ade384b-0c2f-490a-afca-2642e4fbcd73",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "15284833-6490-4e36-a24e-9649775808cf",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "cbb6de22-7a4f-44ed-b90b-53ed9acd6773",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "fe782a0b-3e44-40d2-a30b-fef9be135def",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "ac4d0d9b-1e3e-4402-8a62-83fd9d519133",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "5a2a16a2-1cd3-4612-91c5-2daa107ec8f8",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "a3f9d5b2-b933-4dd4-8ce5-5afdf793be29",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "af4a4d92-150d-4087-89f1-cc8dfecd5173",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "20ab6af0-1ba0-4f8d-8ca3-de597af41a99",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "5d2963cb-a704-43f0-af83-8e472848fc1e",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "b6824744-cae4-4ff7-b369-e08c8ddd4c17",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "556156e6-d512-4b22-b1c9-5473bb286a70",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "b7cd2837-45a2-4a11-9b39-3e973c2b7582",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "709b041f-a050-43f4-ab52-650abfc2b06c",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "5aa3732a-9ef6-43c8-a8b4-cc771182e1dd",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "04ebb54e-0ddd-4441-8818-52a81c13eb43",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "5e5a8943-64e6-49fe-b943-33e1c5136893",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "2343c890-0200-4735-a0a2-fbff4adbee46",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "4ee97a22-e411-4da2-96af-37115417b20b",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "f6e4ca93-4acf-4db1-bdf9-e3b80c212848",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "2621958c-3954-49df-9ddb-071dd9bb7590",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "9844fc37-d3bd-48dd-8a12-47c2d919220b",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "579061e7-941a-4488-9f3b-7054ecf707b7",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "8b9787a2-6d02-40d4-92f7-e73a905b975d",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "89412550-952f-4800-a008-15e915eb9415",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "33ec59af-6452-4ffc-ad0b-b422a454134d",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "df5912e5-a64c-47d5-bb61-a6e6d9decf49",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [],
+  "infoblocks": [
+    {
+      "name": "Горизонтальное перемещение",
+      "description": "Конспект «Горизонтальное перемещение»",
+      "uuid": "23b7a61e-8dcd-456c-85b2-d32f378cf1c6",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Туннелирование трафика",
+      "description": "Конспект «Туннелирование трафика»",
+      "uuid": "5fb1d6a1-bdeb-49e4-980f-9f89b048f217",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "SSH Local Port Forwarding для проброса локального порта",
+      "description": "Конспект «SSH Local Port Forwarding для проброса локального порта»",
+      "uuid": "233bb506-4479-4a46-8dd2-9559562e1cc4",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "SSH Remote Port Forwarding для обратного проброса",
+      "description": "Конспект «SSH Remote Port Forwarding для обратного проброса»",
+      "uuid": "5efaf270-2445-4999-8c4c-d881d824f4fa",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "SSH Dynamic SOCKS Proxy и его применение в pivot",
+      "description": "Конспект «SSH Dynamic SOCKS Proxy и его применение в pivot»",
+      "uuid": "71f84829-1a3f-4360-93e0-1e0a7bd99f49",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "proxychains для маршрутизации произвольного трафика через SOCKS",
+      "description": "Конспект «proxychains для маршрутизации произвольного трафика через SOCKS»",
+      "uuid": "6ade384b-0c2f-490a-afca-2642e4fbcd73",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Chisel",
+      "description": "Конспект «Chisel»",
+      "uuid": "15284833-6490-4e36-a24e-9649775808cf",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Socat для двунаправленного relay портов",
+      "description": "Конспект «Socat для двунаправленного relay портов»",
+      "uuid": "cbb6de22-7a4f-44ed-b90b-53ed9acd6773",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "ICMP-туннелирование для обхода фильтрации TCP и UDP",
+      "description": "Конспект «ICMP-туннелирование для обхода фильтрации TCP и UDP»",
+      "uuid": "fe782a0b-3e44-40d2-a30b-fef9be135def",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "DNS-туннелирование как канал C2 в средах со строгим egress",
+      "description": "Конспект «DNS-туннелирование как канал C2 в средах со строгим egress»",
+      "uuid": "ac4d0d9b-1e3e-4402-8a62-83fd9d519133",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "ligolo-ng как современный pivot-инструмент с TUN-интерфейсом",
+      "description": "Конспект «ligolo-ng как современный pivot-инструмент с TUN-интерфейсом»",
+      "uuid": "5a2a16a2-1cd3-4612-91c5-2daa107ec8f8",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Удалённое выполнение через WinRM",
+      "description": "Конспект «Удалённое выполнение через WinRM»",
+      "uuid": "a3f9d5b2-b933-4dd4-8ce5-5afdf793be29",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "evil-winrm для интерактивной работы через WinRM",
+      "description": "Конспект «evil-winrm для интерактивной работы через WinRM»",
+      "uuid": "af4a4d92-150d-4087-89f1-cc8dfecd5173",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Enter-PSSession и Invoke-Command в стандартном PowerShell-Remoting",
+      "description": "Конспект «Enter-PSSession и Invoke-Command в стандартном PowerShell-Remoting»",
+      "uuid": "20ab6af0-1ba0-4f8d-8ca3-de597af41a99",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "PowerShell Constrained Language Mode и техники его обхода",
+      "description": "Конспект «PowerShell Constrained Language Mode и техники его обхода»",
+      "uuid": "5d2963cb-a704-43f0-af83-8e472848fc1e",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Удалённое выполнение через SMB",
+      "description": "Конспект «Удалённое выполнение через SMB»",
+      "uuid": "b6824744-cae4-4ff7-b369-e08c8ddd4c17",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Семейство Impacket: psexec.py, wmiexec.py и smbexec.py",
+      "description": "Конспект «Семейство Impacket: psexec.py, wmiexec.py и smbexec.py»",
+      "uuid": "556156e6-d512-4b22-b1c9-5473bb286a70",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "PsExec от Sysinternals и его следы в логах",
+      "description": "Конспект «PsExec от Sysinternals и его следы в логах»",
+      "uuid": "b7cd2837-45a2-4a11-9b39-3e973c2b7582",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "CrackMapExec и его форк NetExec для массовых операций",
+      "description": "Конспект «CrackMapExec и его форк NetExec для массовых операций»",
+      "uuid": "709b041f-a050-43f4-ab52-650abfc2b06c",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "DCOM execution как альтернативный канал lateral movement через COM",
+      "description": "Конспект «DCOM execution как альтернативный канал lateral movement через COM»",
+      "uuid": "5aa3732a-9ef6-43c8-a8b4-cc771182e1dd",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Lateral movement через SSH и RDP",
+      "description": "Конспект «Lateral movement через SSH и RDP»",
+      "uuid": "04ebb54e-0ddd-4441-8818-52a81c13eb43",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Поиск приватных SSH-ключей в файловой системе хоста",
+      "description": "Конспект «Поиск приватных SSH-ключей в файловой системе хоста»",
+      "uuid": "5e5a8943-64e6-49fe-b943-33e1c5136893",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "known_hosts как источник карты pivot-целей",
+      "description": "Конспект «known_hosts как источник карты pivot-целей»",
+      "uuid": "2343c890-0200-4735-a0a2-fbff4adbee46",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "SSH Agent Forwarding и связанные с ним риски pivot",
+      "description": "Конспект «SSH Agent Forwarding и связанные с ним риски pivot»",
+      "uuid": "4ee97a22-e411-4da2-96af-37115417b20b",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "RDP Restricted Admin Mode и Pass-the-Hash через него",
+      "description": "Конспект «RDP Restricted Admin Mode и Pass-the-Hash через него»",
+      "uuid": "f6e4ca93-4acf-4db1-bdf9-e3b80c212848",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Linux-клиенты RDP: xfreerdp и rdesktop",
+      "description": "Конспект «Linux-клиенты RDP: xfreerdp и rdesktop»",
+      "uuid": "2621958c-3954-49df-9ddb-071dd9bb7590",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Pass-the-Hash и Pass-the-Ticket",
+      "description": "Конспект «Pass-the-Hash и Pass-the-Ticket»",
+      "uuid": "9844fc37-d3bd-48dd-8a12-47c2d919220b",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Pass-the-Hash",
+      "description": "Конспект «Pass-the-Hash»",
+      "uuid": "579061e7-941a-4488-9f3b-7054ecf707b7",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Реализации PtH: Mimikatz, Impacket, CrackMapExec",
+      "description": "Конспект «Реализации PtH: Mimikatz, Impacket, CrackMapExec»",
+      "uuid": "8b9787a2-6d02-40d4-92f7-e73a905b975d",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Pass-the-Ticket",
+      "description": "Конспект «Pass-the-Ticket»",
+      "uuid": "89412550-952f-4800-a008-15e915eb9415",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Извлечение TGT из памяти LSASS",
+      "description": "Конспект «Извлечение TGT из памяти LSASS»",
+      "uuid": "33ec59af-6452-4ffc-ad0b-b422a454134d",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Overpass-the-Hash: получение Kerberos TGT через NTLM-хэш",
+      "description": "Конспект «Overpass-the-Hash: получение Kerberos TGT через NTLM-хэш»",
+      "uuid": "df5912e5-a64c-47d5-bb61-a6e6d9decf49",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

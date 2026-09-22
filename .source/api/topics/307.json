@@ -1,0 +1,290 @@
+{
+  "id": 307,
+  "name": "Теория",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5439-000000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": "628ba222-4f3f-45d3-96f7-b0831ec02292",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "4072ecba-f642-43a5-96a0-94e3056447d6",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "2c062102-8f3f-4cd2-ac10-598af1687461",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "236cfebd-9630-4708-95e3-0cda00f8e250",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "fb892acc-e28f-4b25-8ef5-d170cbf4086f",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "9699b4aa-ab05-4b4d-b410-748556f0f0a1",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "60228f8f-0e9e-4035-bd5e-c0a7294333a8",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "36b9dad7-4fce-43f6-8709-827fe1fca30d",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "2ca15b5c-8635-446f-949a-0cd64fc80671",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "bf67815c-a6d1-4084-adcd-a05096515dce",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "62943879-c5f6-454f-8fe8-203efbbe7f3e",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "825bdcc9-03d9-4113-a802-86856a63dbf5",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "5f414d63-8e8c-4575-93c7-7f883fa9de75",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "c7b910e4-e225-4111-89d1-9d55bbba68bb",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "aad21ff7-71d8-445f-9b07-363c44415630",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "1d9b0da7-b131-42b6-87da-68e5a14d4a10",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "e30ccad4-3bc5-4e9f-81fc-98b4492de5e3",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "1f930700-2cd9-41ef-a274-4d7b1e8283a4",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "480436b5-88e5-4ea0-83f1-0c9cffca7d4a",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "089a1bce-cd5f-4087-b9af-18d32e0bb484",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "56e3e73e-200a-463e-bec1-565fcd40920d",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "ad9a171c-c623-4d8c-a003-2f58031bd77f",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "31d8b331-4e4c-4eee-8e6e-74a1e2e0647d",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "c688c3e1-d492-40a4-b5e2-d45a751df7bd",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "1c3d2126-71c4-447a-8486-a6655959a2f0",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [],
+  "infoblocks": [
+    {
+      "name": "Атаки на базы данных",
+      "description": "Конспект «Атаки на базы данных»",
+      "uuid": "628ba222-4f3f-45d3-96f7-b0831ec02292",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Типы SQL Injection",
+      "description": "Конспект «Типы SQL Injection»",
+      "uuid": "4072ecba-f642-43a5-96a0-94e3056447d6",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "In-band SQLi: Union-based и Error-based техники",
+      "description": "Конспект «In-band SQLi: Union-based и Error-based техники»",
+      "uuid": "2c062102-8f3f-4cd2-ac10-598af1687461",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Blind SQLi: Boolean-based и Time-based техники",
+      "description": "Конспект «Blind SQLi: Boolean-based и Time-based техники»",
+      "uuid": "236cfebd-9630-4708-95e3-0cda00f8e250",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Out-of-band SQLi через DNS или HTTP-канал",
+      "description": "Конспект «Out-of-band SQLi через DNS или HTTP-канал»",
+      "uuid": "fb892acc-e28f-4b25-8ef5-d170cbf4086f",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Second-order SQLi: задержанная во времени инъекция",
+      "description": "Конспект «Second-order SQLi: задержанная во времени инъекция»",
+      "uuid": "9699b4aa-ab05-4b4d-b410-748556f0f0a1",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Атаки на NoSQL базы данных",
+      "description": "Конспект «Атаки на NoSQL базы данных»",
+      "uuid": "60228f8f-0e9e-4035-bd5e-c0a7294333a8",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "MongoDB: дефолтная аутентификация и её отсутствие в установке",
+      "description": "Конспект «MongoDB: дефолтная аутентификация и её отсутствие в установке»",
+      "uuid": "36b9dad7-4fce-43f6-8709-827fe1fca30d",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "NoSQL Injection в JSON-параметрах запроса",
+      "description": "Конспект «NoSQL Injection в JSON-параметрах запроса»",
+      "uuid": "2ca15b5c-8635-446f-949a-0cd64fc80671",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Оператор $where в MongoDB как канал JS-инъекции",
+      "description": "Конспект «Оператор $where в MongoDB как канал JS-инъекции»",
+      "uuid": "bf67815c-a6d1-4084-adcd-a05096515dce",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "nosqlmap как инструмент автоматизации NoSQL Injection",
+      "description": "Конспект «nosqlmap как инструмент автоматизации NoSQL Injection»",
+      "uuid": "62943879-c5f6-454f-8fe8-203efbbe7f3e",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Уязвимости CouchDB и других NoSQL-баз",
+      "description": "Конспект «Уязвимости CouchDB и других NoSQL-баз»",
+      "uuid": "825bdcc9-03d9-4113-a802-86856a63dbf5",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Автоматизация через SQLmap",
+      "description": "Конспект «Автоматизация через SQLmap»",
+      "uuid": "5f414d63-8e8c-4575-93c7-7f883fa9de75",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Базовый запуск sqlmap для перечисления баз данных",
+      "description": "Конспект «Базовый запуск sqlmap для перечисления баз данных»",
+      "uuid": "c7b910e4-e225-4111-89d1-9d55bbba68bb",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Тестирование cookies, headers и POST-параметров через sqlmap",
+      "description": "Конспект «Тестирование cookies, headers и POST-параметров через sqlmap»",
+      "uuid": "aad21ff7-71d8-445f-9b07-363c44415630",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Получение OS shell через --os-shell в sqlmap",
+      "description": "Конспект «Получение OS shell через --os-shell в sqlmap»",
+      "uuid": "1d9b0da7-b131-42b6-87da-68e5a14d4a10",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Чтение и запись файлов в БД через sqlmap",
+      "description": "Конспект «Чтение и запись файлов в БД через sqlmap»",
+      "uuid": "e30ccad4-3bc5-4e9f-81fc-98b4492de5e3",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Tamper scripts sqlmap для обхода WAF",
+      "description": "Конспект «Tamper scripts sqlmap для обхода WAF»",
+      "uuid": "1f930700-2cd9-41ef-a274-4d7b1e8283a4",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Прямые атаки на DB-сервисы",
+      "description": "Конспект «Прямые атаки на DB-сервисы»",
+      "uuid": "480436b5-88e5-4ea0-83f1-0c9cffca7d4a",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Учётные данные по умолчанию в свежих установках СУБД",
+      "description": "Конспект «Учётные данные по умолчанию в свежих установках СУБД»",
+      "uuid": "089a1bce-cd5f-4087-b9af-18d32e0bb484",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "MS SQL: эксплуатация xp_cmdshell для RCE",
+      "description": "Конспект «MS SQL: эксплуатация xp_cmdshell для RCE»",
+      "uuid": "56e3e73e-200a-463e-bec1-565fcd40920d",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "MySQL UDF: загрузка кастомных функций для RCE",
+      "description": "Конспект «MySQL UDF: загрузка кастомных функций для RCE»",
+      "uuid": "ad9a171c-c623-4d8c-a003-2f58031bd77f",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "PostgreSQL COPY FROM PROGRAM как канал RCE",
+      "description": "Конспект «PostgreSQL COPY FROM PROGRAM как канал RCE»",
+      "uuid": "31d8b331-4e4c-4eee-8e6e-74a1e2e0647d",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Oracle DBMS_SCHEDULER как канал запуска команд",
+      "description": "Конспект «Oracle DBMS_SCHEDULER как канал запуска команд»",
+      "uuid": "c688c3e1-d492-40a4-b5e2-d45a751df7bd",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Redis: unauthorized access и его эксплуатация",
+      "description": "Конспект «Redis: unauthorized access и его эксплуатация»",
+      "uuid": "1c3d2126-71c4-447a-8486-a6655959a2f0",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

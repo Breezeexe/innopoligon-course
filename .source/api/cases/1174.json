@@ -1,0 +1,53 @@
+{
+  "id": 1174,
+  "name": "Практика - OpenVAS / Greenbone Vulnerability Manager",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": null,
+  "uuid": "50454e54-4553-542d-5036-000000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "f4b2b90c-9657-420e-90ed-4e7772408f81",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5036-000000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1809,
+      "name": "Практика 6 — Поиск уязвимостей",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5036-000000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 10,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Дополнительная информация",
+      "description": "",
+      "uuid": "f4b2b90c-9657-420e-90ed-4e7772408f81",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

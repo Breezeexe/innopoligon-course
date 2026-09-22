@@ -1,0 +1,53 @@
+{
+  "id": 1185,
+  "name": "Практика - Living-off-the-Land Binaries",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "d275d761-670c-4aa5-b568-505065c0419f",
+  "uuid": "50454e54-4553-542d-5031-370000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "7f64c710-8f1d-4d73-be31-ef45bb67d12b",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5031-370000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1820,
+      "name": "Практика 17 — Пост-эксплуатация",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5031-370000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 6,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "7f64c710-8f1d-4d73-be31-ef45bb67d12b",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

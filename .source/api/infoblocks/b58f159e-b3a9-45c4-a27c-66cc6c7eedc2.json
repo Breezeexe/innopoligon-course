@@ -1,0 +1,14 @@
+{
+  "name": "Скрипты vuln-категории для проверки известных CVE",
+  "description": "Конспект «Скрипты vuln-категории для проверки известных CVE»",
+  "uuid": "b58f159e-b3a9-45c4-a27c-66cc6c7eedc2",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9237732376.md",
+      "original_id": "Скрипты vuln-категории для проверки известных CVE.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Связь находок Nessus с целями пентест-задания",
+  "description": "Конспект «Связь находок Nessus с целями пентест-задания»",
+  "uuid": "54c94c75-5260-490e-908e-07dd2d35717c",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5095341351.md",
+      "original_id": "Связь находок Nessus с целями пентест-задания.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Атаки на SSH",
+  "description": "Конспект «Атаки на SSH»",
+  "uuid": "8964cf7f-b6ef-4002-ac2b-9d519fe10cff",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1190464387.md",
+      "original_id": "Атаки на SSH.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

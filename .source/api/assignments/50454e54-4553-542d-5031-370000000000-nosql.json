@@ -1,0 +1,87 @@
+{
+  "files": [],
+  "tests": [
+    {
+      "id": 1,
+      "quest": "Какой флаг лежит в C:\\loot\\download.flag после загрузки файла?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 2,
+      "quest": "Какой флаг лежит в C:\\loot\\scriptexec.flag после запуска сценария?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 3,
+      "quest": "Какой флаг лежит в C:\\loot\\regsvr32.flag после обхода AppLocker?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 4,
+      "quest": "Какой флаг лежит в ~/loot/fetch.flag после загрузки файла?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 5,
+      "quest": "Какой флаг лежит в ~/loot/exec.flag после получения интерактивного шелла?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 6,
+      "quest": "Какое значение лежит в файле marker.bin, скачанном с локального источника?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    }
+  ],
+  "legend": null,
+  "assignment_uuid": "50454e54-4553-542d-5031-370000000000",
+  "version_by_user": null,
+  "attempt": 1
+}

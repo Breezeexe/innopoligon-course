@@ -1,0 +1,14 @@
+{
+  "name": "Overpass-the-Hash: получение Kerberos TGT через NTLM-хэш",
+  "description": "Конспект «Overpass-the-Hash: получение Kerberos TGT через NTLM-хэш»",
+  "uuid": "df5912e5-a64c-47d5-bb61-a6e6d9decf49",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5402832500.md",
+      "original_id": "Overpass-the-Hash： получение Kerberos TGT через NTLM-хэш.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

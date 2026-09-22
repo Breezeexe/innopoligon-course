@@ -1,0 +1,218 @@
+[
+  {
+    "id": 93,
+    "name": "Основы тестирования на проникновение",
+    "description_full": "Курс готовит слушателя к работе на проекте по тестированию на проникновение: собрать данные о цели из открытых источников и активной разведкой, найти слабые места на периметре и во внутренней сети, получить первый доступ, поднять привилегии до полных прав на узле, перейти на соседние системы и снять с них учётные данные, а затем оформить находки с воспроизводимым подтверждением, оценкой риска и рекомендациями заказчику.",
+    "description_short": "Подходит для: начинающих пентестеров | администраторов и разработчиков | специалистов ИБ",
+    "picture_name": null,
+    "icon_name": null,
+    "business_id": null,
+    "free": false,
+    "course_type": "PROGRESS_70_30",
+    "uuid": "8604fc75-f777-4b78-bdc0-34cdc5c193e8",
+    "sequences": [
+      {
+        "id": 280,
+        "type": "TOPIC"
+      },
+      {
+        "id": 281,
+        "type": "TOPIC"
+      },
+      {
+        "id": 282,
+        "type": "TOPIC"
+      },
+      {
+        "id": 283,
+        "type": "TOPIC"
+      },
+      {
+        "id": 284,
+        "type": "TOPIC"
+      },
+      {
+        "id": 285,
+        "type": "TOPIC"
+      },
+      {
+        "id": 286,
+        "type": "TOPIC"
+      },
+      {
+        "id": 287,
+        "type": "TOPIC"
+      },
+      {
+        "id": 288,
+        "type": "TOPIC"
+      },
+      {
+        "id": 289,
+        "type": "TOPIC"
+      },
+      {
+        "id": 290,
+        "type": "TOPIC"
+      },
+      {
+        "id": 314,
+        "type": "TOPIC"
+      }
+    ],
+    "topics": [
+      {
+        "progress": 0,
+        "fraction_progress": "0/1",
+        "id": 280,
+        "name": "Методология и этапы пентеста",
+        "description": null,
+        "uuid": "e792dd2a-ba2a-4270-8237-eb1180dedf34",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/3",
+        "id": 281,
+        "name": "Сбор информации",
+        "description": null,
+        "uuid": "58ff0854-ca9e-452d-987b-7d4d3b960a80",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/5",
+        "id": 282,
+        "name": "Поиск уязвимостей",
+        "description": null,
+        "uuid": "d9d89b3d-d079-4a51-96cc-8cf8e1ebc6e8",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/5",
+        "id": 283,
+        "name": "Получение начального доступа",
+        "description": null,
+        "uuid": "178cfbf7-22ee-4297-832d-e365eb64e637",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/7",
+        "id": 284,
+        "name": "Пост-эксплуатация",
+        "description": null,
+        "uuid": "8ede1a2e-18c9-41f1-9ae9-746aa6e3645b",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/2",
+        "id": 285,
+        "name": "Повышение привилегий",
+        "description": null,
+        "uuid": "611b7483-222e-4021-a458-468fe92ca3bb",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/5",
+        "id": 286,
+        "name": "Горизонтальное перемещение",
+        "description": null,
+        "uuid": "b7c0c9b3-4394-4298-924c-3bde5352fecf",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/6",
+        "id": 287,
+        "name": "Атаки на сетевые сервисы",
+        "description": null,
+        "uuid": "bfb64258-f986-49d5-8057-ed07c9b51691",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/4",
+        "id": 288,
+        "name": "Атаки на базы данных",
+        "description": null,
+        "uuid": "54843243-1f73-45c7-926e-56073e7d9d36",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/3",
+        "id": 289,
+        "name": "Социальная инженерия",
+        "description": null,
+        "uuid": "484191f5-ac21-4bff-9c2e-84a65833f661",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/3",
+        "id": 290,
+        "name": "Отчётность по пентесту",
+        "description": null,
+        "uuid": "ce850a55-6881-4c16-8f3c-4b776b5863cf",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      },
+      {
+        "progress": 0,
+        "fraction_progress": "0/1",
+        "id": 314,
+        "name": "Финальный экзамен",
+        "description": null,
+        "uuid": "50454e54-4553-542d-4558-414d00000000",
+        "blocked_topic_uuid": null,
+        "courses_ids": [
+          93
+        ]
+      }
+    ],
+    "case_containers": [],
+    "score": 0,
+    "max_score": 280,
+    "progress": 0,
+    "progress_7030": null,
+    "fraction_topic_and_case_with_100_percent_progress": "0/12",
+    "time": null,
+    "tools": []
+  }
+]

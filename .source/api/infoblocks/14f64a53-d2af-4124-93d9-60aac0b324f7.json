@@ -1,0 +1,14 @@
+{
+  "name": "Санация чувствительных данных в PoC",
+  "description": "Конспект «Санация чувствительных данных в PoC»",
+  "uuid": "14f64a53-d2af-4124-93d9-60aac0b324f7",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3552043776.md",
+      "original_id": "Санация чувствительных данных в PoC.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

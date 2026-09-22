@@ -1,0 +1,45 @@
+{
+  "id": 280,
+  "name": "Методология и этапы пентеста",
+  "description": null,
+  "uuid": "e792dd2a-ba2a-4270-8237-eb1180dedf34",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": 291,
+      "type": "TOPIC",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 292,
+      "type": "TOPIC",
+      "position": "DEFAULT"
+    }
+  ],
+  "assignments": [],
+  "topics": [
+    {
+      "progress": 100,
+      "fraction_progress": "0/0",
+      "id": 291,
+      "name": "Теория",
+      "description": null,
+      "uuid": "50454e54-4553-542d-5431-000000000000",
+      "blocked_topic_uuid": null,
+      "courses_ids": null
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 292,
+      "name": "Практика",
+      "description": null,
+      "uuid": "50454e54-4553-542d-5052-310000000000",
+      "blocked_topic_uuid": null,
+      "courses_ids": null
+    }
+  ],
+  "case_containers": [],
+  "infoblocks": [],
+  "infoblocks_solved": []
+}

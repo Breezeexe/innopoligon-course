@@ -1,0 +1,14 @@
+{
+  "name": "NSE-скрипты nmap для специфических проверок",
+  "description": "Конспект «NSE-скрипты nmap для специфических проверок»",
+  "uuid": "e16a4f7e-0e43-43d4-9f6c-de4c3447fac9",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8059522908.md",
+      "original_id": "NSE-скрипты nmap для специфических проверок.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

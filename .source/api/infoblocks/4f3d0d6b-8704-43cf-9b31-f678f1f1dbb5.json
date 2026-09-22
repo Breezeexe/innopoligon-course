@@ -1,0 +1,14 @@
+{
+  "name": "Раздел Findings: детальный список с описанием каждой находки",
+  "description": "Конспект «Раздел Findings: детальный список с описанием каждой находки»",
+  "uuid": "4f3d0d6b-8704-43cf-9b31-f678f1f1dbb5",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5878924455.md",
+      "original_id": "Раздел Findings： детальный список с описанием каждой находки.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

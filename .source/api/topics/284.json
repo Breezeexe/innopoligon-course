@@ -1,0 +1,45 @@
+{
+  "id": 284,
+  "name": "Пост-эксплуатация",
+  "description": null,
+  "uuid": "8ede1a2e-18c9-41f1-9ae9-746aa6e3645b",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": 299,
+      "type": "TOPIC",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 300,
+      "type": "TOPIC",
+      "position": "DEFAULT"
+    }
+  ],
+  "assignments": [],
+  "topics": [
+    {
+      "progress": 100,
+      "fraction_progress": "0/0",
+      "id": 299,
+      "name": "Теория",
+      "description": null,
+      "uuid": "50454e54-4553-542d-5435-000000000000",
+      "blocked_topic_uuid": null,
+      "courses_ids": null
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/7",
+      "id": 300,
+      "name": "Практика",
+      "description": null,
+      "uuid": "50454e54-4553-542d-5052-350000000000",
+      "blocked_topic_uuid": null,
+      "courses_ids": null
+    }
+  ],
+  "case_containers": [],
+  "infoblocks": [],
+  "infoblocks_solved": []
+}

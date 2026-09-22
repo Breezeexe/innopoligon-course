@@ -1,0 +1,14 @@
+{
+  "name": "Proof of Concept для воспроизведения каждой находки",
+  "description": "Конспект «Proof of Concept для воспроизведения каждой находки»",
+  "uuid": "101df19e-d957-4d8f-b852-5c0395cdb019",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp6897278718.md",
+      "original_id": "Proof of Concept для воспроизведения каждой находки.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

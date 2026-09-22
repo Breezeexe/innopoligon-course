@@ -1,0 +1,123 @@
+{
+  "id": 306,
+  "name": "Практика",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5052-380000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": 1197,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1198,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1199,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1200,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1201,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1202,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1197,
+      "name": "Практика - Атаки на SSH",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "1afcbe5a-6151-4e3c-a9e3-045b93190749",
+      "uuid": "50454e54-4553-542d-5032-390000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1198,
+      "name": "Практика - Атаки на FTP",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "9c1199ed-a84e-4955-acf1-2c8c51fa4759",
+      "uuid": "50454e54-4553-542d-5033-300000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1199,
+      "name": "Практика - Атаки на SMB",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "8e2121c6-d2d2-48c9-8a68-cc96988ae89e",
+      "uuid": "50454e54-4553-542d-5033-310000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1200,
+      "name": "Практика - Атаки на SMTP",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "8368dccb-bb50-4847-bfa2-7b0f29a411d0",
+      "uuid": "50454e54-4553-542d-5033-320000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1201,
+      "name": "Практика - Атаки на RDP",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "6b3a75f4-f959-49be-b01c-eeacc03c2ad6",
+      "uuid": "50454e54-4553-542d-5033-330000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1202,
+      "name": "Практика - Атаки на DNS",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "dc094516-f38b-430f-a45c-1a353a35fef5",
+      "uuid": "50454e54-4553-542d-5033-340000000000"
+    }
+  ],
+  "infoblocks": [],
+  "infoblocks_solved": []
+}

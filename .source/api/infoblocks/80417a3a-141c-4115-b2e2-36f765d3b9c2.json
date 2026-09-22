@@ -1,0 +1,14 @@
+{
+  "name": "Повышение привилегий на Windows",
+  "description": "Конспект «Повышение привилегий на Windows»",
+  "uuid": "80417a3a-141c-4115-b2e2-36f765d3b9c2",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3995234410.md",
+      "original_id": "Повышение привилегий на Windows.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

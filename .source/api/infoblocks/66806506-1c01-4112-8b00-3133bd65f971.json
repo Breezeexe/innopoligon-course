@@ -1,0 +1,14 @@
+{
+  "name": "Google Dorks",
+  "description": "Конспект «Google Dorks»",
+  "uuid": "66806506-1c01-4112-8b00-3133bd65f971",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1181058007.md",
+      "original_id": "Google Dorks.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1197,
+  "name": "Практика - Атаки на SSH",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "1afcbe5a-6151-4e3c-a9e3-045b93190749",
+  "uuid": "50454e54-4553-542d-5032-390000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "ed0fbe03-6d0d-4b8f-973f-db726e821e2f",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5032-390000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1832,
+      "name": "Практика 29 — Атаки на сетевые сервисы",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5032-390000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 4,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "ed0fbe03-6d0d-4b8f-973f-db726e821e2f",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

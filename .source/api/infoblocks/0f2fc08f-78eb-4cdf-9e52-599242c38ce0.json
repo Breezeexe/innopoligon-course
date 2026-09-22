@@ -1,0 +1,14 @@
+{
+  "name": "OWASP Risk Rating Methodology с интеграцией бизнес-влияния",
+  "description": "Конспект «OWASP Risk Rating Methodology с интеграцией бизнес-влияния»",
+  "uuid": "0f2fc08f-78eb-4cdf-9e52-599242c38ce0",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5545503483.md",
+      "original_id": "OWASP Risk Rating Methodology с интеграцией бизнес-влияния.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

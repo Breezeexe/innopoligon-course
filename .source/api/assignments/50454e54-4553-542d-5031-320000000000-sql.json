@@ -1,0 +1,18 @@
+{
+  "id": 1815,
+  "name": "Практика 12 — Получение начального доступа",
+  "description": null,
+  "min_percentage_correct_answers": 80,
+  "attempt": 4,
+  "uuid": "50454e54-4553-542d-5031-320000000000",
+  "mutual": null,
+  "task_type": "PRACTICE",
+  "direct_competencies_tag": "off",
+  "competencies_tags": [
+    "eng",
+    "code"
+  ],
+  "attempts_spent": null,
+  "score": 4,
+  "passed": false
+}

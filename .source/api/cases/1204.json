@@ -1,0 +1,53 @@
+{
+  "id": 1204,
+  "name": "Практика - Атаки на NoSQL базы данных",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "320328ca-068f-465c-b647-4d4a9de4addb",
+  "uuid": "50454e54-4553-542d-5033-360000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "861679cd-3e6d-4eb2-862a-01db0a2486de",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5033-360000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1839,
+      "name": "Практика 36 — Атаки на базы данных",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5033-360000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 4,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "861679cd-3e6d-4eb2-862a-01db0a2486de",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

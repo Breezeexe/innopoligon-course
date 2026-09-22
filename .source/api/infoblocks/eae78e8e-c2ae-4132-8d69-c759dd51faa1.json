@@ -1,0 +1,14 @@
+{
+  "name": "Загрузка webshell через уязвимость file upload",
+  "description": "Конспект «Загрузка webshell через уязвимость file upload»",
+  "uuid": "eae78e8e-c2ae-4132-8d69-c759dd51faa1",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2869759162.md",
+      "original_id": "Загрузка webshell через уязвимость file upload.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

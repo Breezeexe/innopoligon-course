@@ -1,0 +1,14 @@
+{
+  "name": "Добавление публичного ключа в ~/.ssh/authorized_keys",
+  "description": "Конспект «Добавление публичного ключа в ~/.ssh/authorized_keys»",
+  "uuid": "220e387a-2099-40e9-9fc7-8873815b8f36",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1218625489.md",
+      "original_id": "Добавление публичного ключа в ~／.ssh／authorized_keys.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

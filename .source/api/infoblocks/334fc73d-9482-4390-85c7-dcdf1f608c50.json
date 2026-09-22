@@ -1,0 +1,14 @@
+{
+  "name": "Nuclei как современный сканер",
+  "description": "Конспект «Nuclei как современный сканер»",
+  "uuid": "334fc73d-9482-4390-85c7-dcdf1f608c50",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1801056464.md",
+      "original_id": "Nuclei как современный сканер.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

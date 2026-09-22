@@ -1,0 +1,14 @@
+{
+  "name": "Сбор информации",
+  "description": "Конспект «Сбор информации»",
+  "uuid": "ceabb16f-130e-4d34-b22b-3bc8d714acd4",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2520869942.md",
+      "original_id": "Сбор информации.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

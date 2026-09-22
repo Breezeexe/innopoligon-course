@@ -1,0 +1,14 @@
+{
+  "name": "Поиск и адаптация эксплоитов",
+  "description": "Конспект «Поиск и адаптация эксплоитов»",
+  "uuid": "6d41a5d3-2759-4d22-b5b6-158a3540c865",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2073622821.md",
+      "original_id": "Поиск и адаптация эксплоитов.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

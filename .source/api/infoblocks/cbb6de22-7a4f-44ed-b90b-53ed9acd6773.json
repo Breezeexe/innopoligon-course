@@ -1,0 +1,14 @@
+{
+  "name": "Socat для двунаправленного relay портов",
+  "description": "Конспект «Socat для двунаправленного relay портов»",
+  "uuid": "cbb6de22-7a4f-44ed-b90b-53ed9acd6773",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp6279382153.md",
+      "original_id": "Socat для двунаправленного relay портов.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

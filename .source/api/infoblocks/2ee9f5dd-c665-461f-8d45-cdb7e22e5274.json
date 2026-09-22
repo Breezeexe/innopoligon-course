@@ -1,0 +1,14 @@
+{
+  "name": "Amass: глубокая DNS-разведка с интеграциями",
+  "description": "Конспект «Amass: глубокая DNS-разведка с интеграциями»",
+  "uuid": "2ee9f5dd-c665-461f-8d45-cdb7e22e5274",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4267327946.md",
+      "original_id": "Amass： глубокая DNS-разведка с интеграциями.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

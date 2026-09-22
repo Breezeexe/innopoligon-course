@@ -1,0 +1,14 @@
+{
+  "name": "AMSI bypass перед загрузкой PowerShell-payload",
+  "description": "Конспект «AMSI bypass перед загрузкой PowerShell-payload»",
+  "uuid": "741b0910-c1b7-4995-b421-21baa57ed0f8",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3121008866.md",
+      "original_id": "AMSI bypass перед загрузкой PowerShell-payload.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

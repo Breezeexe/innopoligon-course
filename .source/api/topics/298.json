@@ -1,0 +1,105 @@
+{
+  "id": 298,
+  "name": "Практика",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5052-340000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": 1178,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1179,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1180,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1181,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1182,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1178,
+      "name": "Практика - Шеллы и удалённый доступ",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "d6eafff5-e98a-414c-8845-7213e8ca2a0c",
+      "uuid": "50454e54-4553-542d-5031-300000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1179,
+      "name": "Практика - Поиск и адаптация эксплоитов",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "a81acd77-6b66-41ea-9678-7d92b0029af1",
+      "uuid": "50454e54-4553-542d-5031-310000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1180,
+      "name": "Практика - Генерация пейлоада через msfvenom",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "94c3be22-ce83-431a-bec1-02603d09670b",
+      "uuid": "50454e54-4553-542d-5031-320000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1181,
+      "name": "Практика - Обфускация пейлоада",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "78556e5b-47f1-4ee8-ac65-8f437284a458",
+      "uuid": "50454e54-4553-542d-5031-330000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1182,
+      "name": "Практика - Доставка пейлоада",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "7b2570fd-242b-48ef-a148-923ab787bb6e",
+      "uuid": "50454e54-4553-542d-5031-340000000000"
+    }
+  ],
+  "infoblocks": [],
+  "infoblocks_solved": []
+}

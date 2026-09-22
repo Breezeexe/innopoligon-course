@@ -1,0 +1,290 @@
+{
+  "id": 301,
+  "name": "Теория",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5436-000000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": "fc96ece5-9b04-4e42-8f2e-d248519f26b6",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "80417a3a-141c-4115-b2e2-36f765d3b9c2",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "d400d532-8a98-4652-a5f4-2826d80c522d",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "9afbf6ae-1f5c-4f0c-98c7-d59fd3e8c6a7",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "652ebf88-ef2e-416a-8346-a7b808fbefb9",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "ba10fc23-2597-42f9-b02a-81fafb6ee6e3",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "2a8abba8-8c43-411a-8234-231f24a256c3",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "d1918654-9574-43a4-b80b-98fad1486243",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "9727efdd-052a-4ff3-b061-434a04df0a5e",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "d1950bfa-8a33-4ed5-ac01-cbfbfd23ceaf",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "de37d80d-fcb2-4826-a89e-50d496c8fefc",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "23c3066e-0fbd-4d65-99b6-e58b4ea30e2c",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "487f1fa2-a5d9-4c66-8ae0-a937e0f44792",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "6eac22df-653f-4c5b-a728-293bf611629c",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "d819d3b9-371e-423d-bd34-046ee1806429",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "c3142e43-5c79-4b81-9d99-47382f1c247f",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "43a09c8b-54c1-4c86-9499-1ef23557cbad",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "5c6bad87-78e9-44a7-9b94-090a5d8f346e",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "73240073-545e-4f5a-9b6c-130f6af693ee",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "4b9dece9-1f92-4b8c-94d3-d0fa1eca0b7a",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "991bb6fb-6443-47fc-b996-1a97ad9f8055",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "bf29bd5e-bd87-4f0f-9128-9ab35800e0f1",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "25c1357e-3a7e-4d39-9349-515923d683e0",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "4318fae6-eb93-4f84-a544-b789d76816bb",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "9f3a607b-f2fa-4441-912f-ea2f1f895e49",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [],
+  "infoblocks": [
+    {
+      "name": "Повышение привилегий",
+      "description": "Конспект «Повышение привилегий»",
+      "uuid": "fc96ece5-9b04-4e42-8f2e-d248519f26b6",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Повышение привилегий на Windows",
+      "description": "Конспект «Повышение привилегий на Windows»",
+      "uuid": "80417a3a-141c-4115-b2e2-36f765d3b9c2",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Привилегия SeImpersonatePrivilege и семейство Potato-атак",
+      "description": "Конспект «Привилегия SeImpersonatePrivilege и семейство Potato-атак»",
+      "uuid": "d400d532-8a98-4652-a5f4-2826d80c522d",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "AlwaysInstallElevated: установка MSI с правами SYSTEM",
+      "description": "Конспект «AlwaysInstallElevated: установка MSI с правами SYSTEM»",
+      "uuid": "9afbf6ae-1f5c-4f0c-98c7-d59fd3e8c6a7",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Unquoted Service Path: эксплуатация пробелов в пути службы",
+      "description": "Конспект «Unquoted Service Path: эксплуатация пробелов в пути службы»",
+      "uuid": "652ebf88-ef2e-416a-8346-a7b808fbefb9",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Слабые DACL на службе или её исполняемом файле",
+      "description": "Конспект «Слабые DACL на службе или её исполняемом файле»",
+      "uuid": "ba10fc23-2597-42f9-b02a-81fafb6ee6e3",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "DLL hijacking как механизм повышения привилегий",
+      "description": "Конспект «DLL hijacking как механизм повышения привилегий»",
+      "uuid": "2a8abba8-8c43-411a-8234-231f24a256c3",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Token Impersonation",
+      "description": "Конспект «Token Impersonation»",
+      "uuid": "d1918654-9574-43a4-b80b-98fad1486243",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Семейство техник Bypass UAC и их применимость",
+      "description": "Конспект «Семейство техник Bypass UAC и их применимость»",
+      "uuid": "9727efdd-052a-4ff3-b061-434a04df0a5e",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Уязвимости ядра Windows: EternalBlue и PrintNightmare как примеры",
+      "description": "Конспект «Уязвимости ядра Windows: EternalBlue и PrintNightmare как примеры»",
+      "uuid": "d1950bfa-8a33-4ed5-ac01-cbfbfd23ceaf",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Автоматический поиск векторов PrivEsc через WinPEAS и аналоги",
+      "description": "Конспект «Автоматический поиск векторов PrivEsc через WinPEAS и аналоги»",
+      "uuid": "de37d80d-fcb2-4826-a89e-50d496c8fefc",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Server Operators и другие встроенные группы с избыточными правами",
+      "description": "Конспект «Server Operators и другие встроенные группы с избыточными правами»",
+      "uuid": "23c3066e-0fbd-4d65-99b6-e58b4ea30e2c",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Повышение привилегий на Linux",
+      "description": "Конспект «Повышение привилегий на Linux»",
+      "uuid": "487f1fa2-a5d9-4c66-8ae0-a937e0f44792",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "sudo -l и сверка прав с базой GTFOBins",
+      "description": "Конспект «sudo -l и сверка прав с базой GTFOBins»",
+      "uuid": "6eac22df-653f-4c5b-a728-293bf611629c",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Эксплуатация SUID и SGID бинарников",
+      "description": "Конспект «Эксплуатация SUID и SGID бинарников»",
+      "uuid": "d819d3b9-371e-423d-bd34-046ee1806429",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Writable cron jobs: внедрение команды в чужую задачу",
+      "description": "Конспект «Writable cron jobs: внедрение команды в чужую задачу»",
+      "uuid": "c3142e43-5c79-4b81-9d99-47382f1c247f",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Writable /etc/passwd: добавление UID 0 пользователя",
+      "description": "Конспект «Writable /etc/passwd: добавление UID 0 пользователя»",
+      "uuid": "43a09c8b-54c1-4c86-9499-1ef23557cbad",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Linux Capabilities",
+      "description": "Конспект «Linux Capabilities»",
+      "uuid": "5c6bad87-78e9-44a7-9b94-090a5d8f346e",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "NFS no_root_squash как вектор повышения привилегий с клиента",
+      "description": "Конспект «NFS no_root_squash как вектор повышения привилегий с клиента»",
+      "uuid": "73240073-545e-4f5a-9b6c-130f6af693ee",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Уязвимое ПО и ядро Linux как путь к root",
+      "description": "Конспект «Уязвимое ПО и ядро Linux как путь к root»",
+      "uuid": "4b9dece9-1f92-4b8c-94d3-d0fa1eca0b7a",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Автоматический поиск векторов PrivEsc через LinPEAS и LinEnum",
+      "description": "Конспект «Автоматический поиск векторов PrivEsc через LinPEAS и LinEnum»",
+      "uuid": "991bb6fb-6443-47fc-b996-1a97ad9f8055",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Группы LXD и Docker как путь к root через контейнер",
+      "description": "Конспект «Группы LXD и Docker как путь к root через контейнер»",
+      "uuid": "bf29bd5e-bd87-4f0f-9128-9ab35800e0f1",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "PwnKit и аналогичные публичные эксплоиты Linux",
+      "description": "Конспект «PwnKit и аналогичные публичные эксплоиты Linux»",
+      "uuid": "25c1357e-3a7e-4d39-9349-515923d683e0",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Path hijacking",
+      "description": "Конспект «Path hijacking»",
+      "uuid": "4318fae6-eb93-4f84-a544-b789d76816bb",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Wildcards в команде: инъекция через специальные имена файлов",
+      "description": "Конспект «Wildcards в команде: инъекция через специальные имена файлов»",
+      "uuid": "9f3a607b-f2fa-4441-912f-ea2f1f895e49",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

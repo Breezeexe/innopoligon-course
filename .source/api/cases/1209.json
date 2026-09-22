@@ -1,0 +1,53 @@
+{
+  "id": 1209,
+  "name": "Практика - Документирование и метрики кампании",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": null,
+  "uuid": "50454e54-4553-542d-5034-310000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "0f12e79b-d223-4be8-a95f-24d767a8e0bd",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5034-310000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1844,
+      "name": "Практика 41 — Социальная инженерия",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5034-310000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 10,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Дополнительная информация",
+      "description": "",
+      "uuid": "0f12e79b-d223-4be8-a95f-24d767a8e0bd",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

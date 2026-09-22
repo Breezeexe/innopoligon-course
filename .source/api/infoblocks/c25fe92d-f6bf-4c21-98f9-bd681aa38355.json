@@ -1,0 +1,14 @@
+{
+  "name": "BITSAdmin для фоновой загрузки в обход прокси-фильтрации",
+  "description": "Конспект «BITSAdmin для фоновой загрузки в обход прокси-фильтрации»",
+  "uuid": "c25fe92d-f6bf-4c21-98f9-bd681aa38355",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3856985677.md",
+      "original_id": "BITSAdmin для фоновой загрузки в обход прокси-фильтрации.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

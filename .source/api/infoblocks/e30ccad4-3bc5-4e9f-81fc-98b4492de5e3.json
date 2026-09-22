@@ -1,0 +1,14 @@
+{
+  "name": "Чтение и запись файлов в БД через sqlmap",
+  "description": "Конспект «Чтение и запись файлов в БД через sqlmap»",
+  "uuid": "e30ccad4-3bc5-4e9f-81fc-98b4492de5e3",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8200864475.md",
+      "original_id": "Чтение и запись файлов в БД через sqlmap.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

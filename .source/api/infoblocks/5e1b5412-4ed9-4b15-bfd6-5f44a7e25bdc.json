@@ -1,0 +1,14 @@
+{
+  "name": "Linux: wget и curl для типовой загрузки файлов",
+  "description": "Конспект «Linux: wget и curl для типовой загрузки файлов»",
+  "uuid": "5e1b5412-4ed9-4b15-bfd6-5f44a7e25bdc",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp6706020380.md",
+      "original_id": "Linux： wget и curl для типовой загрузки файлов.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

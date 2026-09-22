@@ -1,0 +1,14 @@
+{
+  "name": "DNS Zone Transfer через AXFR-запрос",
+  "description": "Конспект «DNS Zone Transfer через AXFR-запрос»",
+  "uuid": "d4755a6a-ce78-4806-8745-4ffc62be961f",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9988358140.md",
+      "original_id": "DNS Zone Transfer через AXFR-запрос.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

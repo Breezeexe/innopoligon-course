@@ -1,0 +1,14 @@
+{
+  "name": "Извлечение учётных данных на Linux через MimiPenguin",
+  "description": "Конспект «Извлечение учётных данных на Linux через MimiPenguin»",
+  "uuid": "bed7183a-58a0-4559-b36e-628b1f5e697d",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9117532877.md",
+      "original_id": "Извлечение учётных данных на Linux через MimiPenguin.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

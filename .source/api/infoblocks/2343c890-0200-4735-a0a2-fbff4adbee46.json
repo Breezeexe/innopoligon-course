@@ -1,0 +1,14 @@
+{
+  "name": "known_hosts как источник карты pivot-целей",
+  "description": "Конспект «known_hosts как источник карты pivot-целей»",
+  "uuid": "2343c890-0200-4735-a0a2-fbff4adbee46",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2390495229.md",
+      "original_id": "known_hosts как источник карты pivot-целей.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

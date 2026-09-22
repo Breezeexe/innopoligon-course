@@ -1,0 +1,14 @@
+{
+  "name": "Доставка пейлоада",
+  "description": "Конспект «Доставка пейлоада»",
+  "uuid": "103e5ac1-bee1-4c52-a60c-65065aea809b",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4170138893.md",
+      "original_id": "Доставка пейлоада.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

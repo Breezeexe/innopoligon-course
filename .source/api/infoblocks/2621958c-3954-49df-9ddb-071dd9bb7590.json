@@ -1,0 +1,14 @@
+{
+  "name": "Linux-клиенты RDP: xfreerdp и rdesktop",
+  "description": "Конспект «Linux-клиенты RDP: xfreerdp и rdesktop»",
+  "uuid": "2621958c-3954-49df-9ddb-071dd9bb7590",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4258518517.md",
+      "original_id": "Linux-клиенты RDP： xfreerdp и rdesktop.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

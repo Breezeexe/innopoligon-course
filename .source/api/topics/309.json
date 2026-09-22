@@ -1,0 +1,356 @@
+{
+  "id": 309,
+  "name": "Теория",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5431-300000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": "009bbbc3-2ca1-454e-ac72-6a92b4e3449a",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "ccf9c5a0-c2b8-421b-9351-45cdc501f28d",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "8bb556ef-5c5a-4077-b616-bf8589a01388",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "a7f70a61-0698-45f6-958c-200ce481e84a",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "d0946f69-96b2-4cbb-a03c-8d0dc47cc39f",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "bb7c4014-da8b-49fb-b65e-00e73b990406",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "92c02514-6e39-4922-a229-96367f3de0cd",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "19cfb19a-9ca7-4bef-a6ba-76a49751e609",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "df624a97-b41b-40db-bd13-37a8e378585d",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "3c701672-b11a-439b-bc6b-de5692a1c541",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "0abe25a6-0437-498b-b3e6-a8675a13c1f3",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "253745ce-d748-4035-8f4f-a6cc512ad906",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "d7eed025-2f57-42fb-bf13-4653431f52ad",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "165d1245-25a3-4625-8e03-3de6a692b80e",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "3c891df9-e93b-43ec-8d54-42ee5ed30d79",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "42113b9c-d0c4-4348-a15e-903b321f7213",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "e28dc297-b1d0-4012-b9c5-8c953fc88b12",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "ff78610a-b853-4052-999d-4b6f8fc85873",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "e63ccad9-8446-44d2-86e0-299f317efa7b",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "c6486a6e-9ac8-428c-b49a-e51f23294f58",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "d3e62f1f-a273-4a1b-93b5-c8f91888fb4d",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "e7e287e5-ae05-4c47-86f8-c7de437fae06",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "d234f309-2005-410f-b12c-eecbee0afb82",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "dc828da4-449f-4546-ac03-cc91ae7f12a4",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "d412080b-1e6d-4ff6-b9fc-daec0cf6e3e8",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "18e68e06-3c68-4de5-bae0-b308f05ce173",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "22f5e964-268d-4782-8422-13790202fd55",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "5ddfdd95-0668-4979-abd9-2791f44e2163",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "7b1a9a65-6549-4681-9450-2e967c8467e4",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "7ba27ce0-e6b4-48f1-8c68-bee5cec3f6cf",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "0ca74dd9-9e32-465c-a1a9-daf02414ad89",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [],
+  "infoblocks": [
+    {
+      "name": "Социальная инженерия",
+      "description": "Конспект «Социальная инженерия»",
+      "uuid": "009bbbc3-2ca1-454e-ac72-6a92b4e3449a",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Виды атак социальной инженерии",
+      "description": "Конспект «Виды атак социальной инженерии»",
+      "uuid": "ccf9c5a0-c2b8-421b-9351-45cdc501f28d",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Фишинг: массовая email-рассылка",
+      "description": "Конспект «Фишинг: массовая email-рассылка»",
+      "uuid": "8bb556ef-5c5a-4077-b616-bf8589a01388",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Spear-phishing",
+      "description": "Конспект «Spear-phishing»",
+      "uuid": "a7f70a61-0698-45f6-958c-200ce481e84a",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Smishing",
+      "description": "Конспект «Smishing»",
+      "uuid": "d0946f69-96b2-4cbb-a03c-8d0dc47cc39f",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Vishing",
+      "description": "Конспект «Vishing»",
+      "uuid": "bb7c4014-da8b-49fb-b65e-00e73b990406",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Quishing",
+      "description": "Конспект «Quishing»",
+      "uuid": "92c02514-6e39-4922-a229-96367f3de0cd",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Pretexting и tailgating в физическом пентесте",
+      "description": "Конспект «Pretexting и tailgating в физическом пентесте»",
+      "uuid": "19cfb19a-9ca7-4bef-a6ba-76a49751e609",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Watering hole",
+      "description": "Конспект «Watering hole»",
+      "uuid": "df624a97-b41b-40db-bd13-37a8e378585d",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Инфраструктура фишинговой кампании",
+      "description": "Конспект «Инфраструктура фишинговой кампании»",
+      "uuid": "3c701672-b11a-439b-bc6b-de5692a1c541",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "GoPhish как open-source платформа управления фишинг-кампаниями",
+      "description": "Конспект «GoPhish как open-source платформа управления фишинг-кампаниями»",
+      "uuid": "0abe25a6-0437-498b-b3e6-a8675a13c1f3",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Evilginx2 как AiTM-proxy для перехвата сессии вместе с MFA",
+      "description": "Конспект «Evilginx2 как AiTM-proxy для перехвата сессии вместе с MFA»",
+      "uuid": "253745ce-d748-4035-8f4f-a6cc512ad906",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Modlishka и аналогичные AiTM-инструменты для перехвата сессий",
+      "description": "Конспект «Modlishka и аналогичные AiTM-инструменты для перехвата сессий»",
+      "uuid": "d7eed025-2f57-42fb-bf13-4653431f52ad",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Social-Engineer Toolkit для комплексных атак социнженерии",
+      "description": "Конспект «Social-Engineer Toolkit для комплексных атак социнженерии»",
+      "uuid": "165d1245-25a3-4625-8e03-3de6a692b80e",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Клонирование веб-страниц для фишинговых форм",
+      "description": "Конспект «Клонирование веб-страниц для фишинговых форм»",
+      "uuid": "3c891df9-e93b-43ec-8d54-42ee5ed30d79",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Настройка DKIM, SPF и DMARC на собственном фишинг-домене",
+      "description": "Конспект «Настройка DKIM, SPF и DMARC на собственном фишинг-домене»",
+      "uuid": "42113b9c-d0c4-4348-a15e-903b321f7213",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Регистрация домена с минимизацией признаков фишинга",
+      "description": "Конспект «Регистрация домена с минимизацией признаков фишинга»",
+      "uuid": "e28dc297-b1d0-4012-b9c5-8c953fc88b12",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Email-relay сервисы для отправки фишинг-кампании",
+      "description": "Конспект «Email-relay сервисы для отправки фишинг-кампании»",
+      "uuid": "ff78610a-b853-4052-999d-4b6f8fc85873",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "AI в социальной инженерии",
+      "description": "Конспект «AI в социальной инженерии»",
+      "uuid": "e63ccad9-8446-44d2-86e0-299f317efa7b",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "LLM для генерации убедительных фишинговых писем",
+      "description": "Конспект «LLM для генерации убедительных фишинговых писем»",
+      "uuid": "c6486a6e-9ac8-428c-b49a-e51f23294f58",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Voice cloning через AI как инструмент vishing-атак",
+      "description": "Конспект «Voice cloning через AI как инструмент vishing-атак»",
+      "uuid": "d3e62f1f-a273-4a1b-93b5-c8f91888fb4d",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Deepfake-видео для целевых атак на high-value персон",
+      "description": "Конспект «Deepfake-видео для целевых атак на high-value персон»",
+      "uuid": "e7e287e5-ae05-4c47-86f8-c7de437fae06",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "AI-генерируемые персонажи для long-term операций социнженерии",
+      "description": "Конспект «AI-генерируемые персонажи для long-term операций социнженерии»",
+      "uuid": "d234f309-2005-410f-b12c-eecbee0afb82",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Документирование и метрики кампании",
+      "description": "Конспект «Документирование и метрики кампании»",
+      "uuid": "dc828da4-449f-4546-ac03-cc91ae7f12a4",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Open Rate как метрика доставляемости фишинг-кампании",
+      "description": "Конспект «Open Rate как метрика доставляемости фишинг-кампании»",
+      "uuid": "d412080b-1e6d-4ff6-b9fc-daec0cf6e3e8",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Click Rate как метрика качества фишинговой приманки",
+      "description": "Конспект «Click Rate как метрика качества фишинговой приманки»",
+      "uuid": "18e68e06-3c68-4de5-bae0-b308f05ce173",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Credential Submission Rate как итоговая метрика кампании",
+      "description": "Конспект «Credential Submission Rate как итоговая метрика кампании»",
+      "uuid": "22f5e964-268d-4782-8422-13790202fd55",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Согласование scope социальной инженерии в Rules of Engagement",
+      "description": "Конспект «Согласование scope социальной инженерии в Rules of Engagement»",
+      "uuid": "5ddfdd95-0668-4979-abd9-2791f44e2163",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Структура отчёта по фишинг-кампании",
+      "description": "Конспект «Структура отчёта по фишинг-кампании»",
+      "uuid": "7b1a9a65-6549-4681-9450-2e967c8467e4",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Обращение с собранными PII по правилам конфиденциальности",
+      "description": "Конспект «Обращение с собранными PII по правилам конфиденциальности»",
+      "uuid": "7ba27ce0-e6b4-48f1-8c68-bee5cec3f6cf",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Рекомендации по awareness training в отчёте",
+      "description": "Конспект «Рекомендации по awareness training в отчёте»",
+      "uuid": "0ca74dd9-9e32-465c-a1a9-daf02414ad89",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

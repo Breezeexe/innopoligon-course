@@ -1,0 +1,14 @@
+{
+  "name": "OWASP Testing Guide как стандарт для веб-приложений",
+  "description": "Конспект «OWASP Testing Guide как стандарт для веб-приложений»",
+  "uuid": "61d98231-98d9-4e4f-b379-6a174877b50e",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5325804903.md",
+      "original_id": "OWASP Testing Guide как стандарт для веб-приложений.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

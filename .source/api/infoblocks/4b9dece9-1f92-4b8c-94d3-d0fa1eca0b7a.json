@@ -1,0 +1,14 @@
+{
+  "name": "Уязвимое ПО и ядро Linux как путь к root",
+  "description": "Конспект «Уязвимое ПО и ядро Linux как путь к root»",
+  "uuid": "4b9dece9-1f92-4b8c-94d3-d0fa1eca0b7a",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8540084424.md",
+      "original_id": "Уязвимое ПО и ядро Linux как путь к root.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "COM hijacking",
+  "description": "Конспект «COM hijacking»",
+  "uuid": "7b1a6007-4ad7-4b04-9dde-3ba454db59e3",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5349987100.md",
+      "original_id": "COM hijacking.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

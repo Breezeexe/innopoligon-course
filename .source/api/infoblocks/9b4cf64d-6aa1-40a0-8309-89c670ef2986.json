@@ -1,0 +1,14 @@
+{
+  "name": "Загрузка файлов через certutil, bitsadmin и curl",
+  "description": "Конспект «Загрузка файлов через certutil, bitsadmin и curl»",
+  "uuid": "9b4cf64d-6aa1-40a0-8309-89c670ef2986",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp7715073849.md",
+      "original_id": "Загрузка файлов через certutil, bitsadmin и curl.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

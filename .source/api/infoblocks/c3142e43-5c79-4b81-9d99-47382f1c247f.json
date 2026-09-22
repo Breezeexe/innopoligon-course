@@ -1,0 +1,14 @@
+{
+  "name": "Writable cron jobs: внедрение команды в чужую задачу",
+  "description": "Конспект «Writable cron jobs: внедрение команды в чужую задачу»",
+  "uuid": "c3142e43-5c79-4b81-9d99-47382f1c247f",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2260951334.md",
+      "original_id": "Writable cron jobs： внедрение команды в чужую задачу.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

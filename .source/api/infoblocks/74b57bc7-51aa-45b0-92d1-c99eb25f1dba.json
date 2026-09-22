@@ -1,0 +1,14 @@
+{
+  "name": "Передача файлов через SMB-шару",
+  "description": "Конспект «Передача файлов через SMB-шару»",
+  "uuid": "74b57bc7-51aa-45b0-92d1-c99eb25f1dba",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3944653163.md",
+      "original_id": "Передача файлов через SMB-шару.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Развёртывание Python HTTP-сервера для передачи файлов",
+  "description": "Конспект «Развёртывание Python HTTP-сервера для передачи файлов»",
+  "uuid": "31202879-d212-4e3b-9d75-53285ce0bea2",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1420951323.md",
+      "original_id": "Развёртывание Python HTTP-сервера для передачи файлов.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

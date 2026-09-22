@@ -1,0 +1,14 @@
+{
+  "name": "DLL hijacking",
+  "description": "Конспект «DLL hijacking»",
+  "uuid": "322b92a7-40a4-4304-a348-05a5baf81189",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3129568179.md",
+      "original_id": "DLL hijacking.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

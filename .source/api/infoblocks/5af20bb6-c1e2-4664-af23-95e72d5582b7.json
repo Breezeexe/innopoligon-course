@@ -1,0 +1,14 @@
+{
+  "name": "Null session как канал получения информации без аутентификации",
+  "description": "Конспект «Null session как канал получения информации без аутентификации»",
+  "uuid": "5af20bb6-c1e2-4664-af23-95e72d5582b7",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4832598883.md",
+      "original_id": "Null session как канал получения информации без аутентификации.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

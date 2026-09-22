@@ -1,0 +1,14 @@
+{
+  "name": "Создание systemd unit для запуска полезной нагрузки",
+  "description": "Конспект «Создание systemd unit для запуска полезной нагрузки»",
+  "uuid": "5e15dad4-81b9-4d7a-a9b5-38eb79ae06e5",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2854498213.md",
+      "original_id": "Создание systemd unit для запуска полезной нагрузки.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

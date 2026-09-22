@@ -1,0 +1,14 @@
+{
+  "name": "Compliance-отчёт под отраслевые регуляторные требования",
+  "description": "Конспект «Compliance-отчёт под отраслевые регуляторные требования»",
+  "uuid": "70c27713-9f3a-4b15-8059-8fbbbac7ecca",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp6231956352.md",
+      "original_id": "Compliance-отчёт под отраслевые регуляторные требования.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

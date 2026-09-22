@@ -1,0 +1,53 @@
+{
+  "id": 1183,
+  "name": "Практика - Разведка на скомпрометированном Windows-хосте",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "b1a3e188-883c-4ee5-8228-5084482113b1",
+  "uuid": "50454e54-4553-542d-5031-350000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "5ba65911-432e-4c2a-8d5e-ef30d4c95a6e",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5031-350000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1818,
+      "name": "Практика 15 — Пост-эксплуатация",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5031-350000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 8,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "5ba65911-432e-4c2a-8d5e-ef30d4c95a6e",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

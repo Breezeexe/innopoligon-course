@@ -1,0 +1,14 @@
+{
+  "name": "Рекомендации по устранению",
+  "description": "Конспект «Рекомендации по устранению»",
+  "uuid": "e8efb403-b3b2-4232-9637-326e3007f0f6",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8443699566.md",
+      "original_id": "Рекомендации по устранению.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

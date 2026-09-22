@@ -1,0 +1,14 @@
+{
+  "name": "evil-winrm для интерактивной работы через WinRM",
+  "description": "Конспект «evil-winrm для интерактивной работы через WinRM»",
+  "uuid": "af4a4d92-150d-4087-89f1-cc8dfecd5173",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3872642981.md",
+      "original_id": "evil-winrm для интерактивной работы через WinRM.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

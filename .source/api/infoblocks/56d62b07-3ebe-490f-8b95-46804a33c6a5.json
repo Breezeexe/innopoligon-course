@@ -1,0 +1,14 @@
+{
+  "name": "Активная разведка",
+  "description": "Конспект «Активная разведка»",
+  "uuid": "56d62b07-3ebe-490f-8b95-46804a33c6a5",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4536650274.md",
+      "original_id": "Активная разведка.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

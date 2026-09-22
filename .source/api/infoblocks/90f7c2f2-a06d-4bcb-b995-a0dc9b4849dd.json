@@ -1,0 +1,14 @@
+{
+  "name": "Запуск по URL и спискам целей с фильтрами",
+  "description": "Конспект «Запуск по URL и спискам целей с фильтрами»",
+  "uuid": "90f7c2f2-a06d-4bcb-b995-a0dc9b4849dd",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9309164491.md",
+      "original_id": "Запуск по URL и спискам целей с фильтрами.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

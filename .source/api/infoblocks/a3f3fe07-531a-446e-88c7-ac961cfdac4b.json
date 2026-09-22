@@ -1,0 +1,14 @@
+{
+  "name": "Reflective loading: запуск payload в памяти без записи на диск",
+  "description": "Конспект «Reflective loading: запуск payload в памяти без записи на диск»",
+  "uuid": "a3f3fe07-531a-446e-88c7-ac961cfdac4b",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9569001994.md",
+      "original_id": "Reflective loading： запуск payload в памяти без записи на диск.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

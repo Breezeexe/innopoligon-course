@@ -1,0 +1,14 @@
+{
+  "name": "NTLM Relay-атаки через ntlmrelayx.py",
+  "description": "Конспект «NTLM Relay-атаки через ntlmrelayx.py»",
+  "uuid": "15fdda3c-fe4f-4636-ad36-13841608052a",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9558532128.md",
+      "original_id": "NTLM Relay-атаки через ntlmrelayx.py.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

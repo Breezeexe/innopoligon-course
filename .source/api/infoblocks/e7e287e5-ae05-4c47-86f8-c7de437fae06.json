@@ -1,0 +1,14 @@
+{
+  "name": "Deepfake-видео для целевых атак на high-value персон",
+  "description": "Конспект «Deepfake-видео для целевых атак на high-value персон»",
+  "uuid": "e7e287e5-ae05-4c47-86f8-c7de437fae06",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8538263440.md",
+      "original_id": "Deepfake-видео для целевых атак на high-value персон.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

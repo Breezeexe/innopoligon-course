@@ -1,0 +1,14 @@
+{
+  "name": "Black Box: тестирование без знания инфраструктуры заказчика",
+  "description": "Конспект «Black Box: тестирование без знания инфраструктуры заказчика»",
+  "uuid": "65e842eb-7a2b-48d8-b0dd-48fbe57ece9b",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8587035474.md",
+      "original_id": "Black Box： тестирование без знания инфраструктуры заказчика.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Lateral movement через SSH и RDP",
+  "description": "Конспект «Lateral movement через SSH и RDP»",
+  "uuid": "04ebb54e-0ddd-4441-8818-52a81c13eb43",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4395370072.md",
+      "original_id": "Lateral movement через SSH и RDP.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

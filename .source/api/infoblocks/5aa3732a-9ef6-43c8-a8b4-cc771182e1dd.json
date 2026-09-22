@@ -1,0 +1,14 @@
+{
+  "name": "DCOM execution как альтернативный канал lateral movement через COM",
+  "description": "Конспект «DCOM execution как альтернативный канал lateral movement через COM»",
+  "uuid": "5aa3732a-9ef6-43c8-a8b4-cc771182e1dd",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4624701305.md",
+      "original_id": "DCOM execution как альтернативный канал lateral movement через COM.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

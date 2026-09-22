@@ -1,0 +1,61 @@
+{
+  "files": [],
+  "tests": [
+    {
+      "id": 1,
+      "quest": "Какой пароль webadmin подобран брутфорсом?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 2,
+      "quest": "Какой флаг записан в ~/flag.txt на цели?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 3,
+      "quest": "Какая версия OpenSSH на цели?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 4,
+      "quest": "Какую служебную учётную запись подтвердило перечисление учётных записей на sshenum?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    }
+  ],
+  "legend": null,
+  "assignment_uuid": "50454e54-4553-542d-5032-390000000000",
+  "version_by_user": null,
+  "attempt": 1
+}

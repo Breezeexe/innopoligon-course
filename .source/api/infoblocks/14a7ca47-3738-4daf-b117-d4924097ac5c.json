@@ -1,0 +1,14 @@
+{
+  "name": "Генерация пейлоада через msfvenom",
+  "description": "Конспект «Генерация пейлоада через msfvenom»",
+  "uuid": "14a7ca47-3738-4daf-b117-d4924097ac5c",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3288219014.md",
+      "original_id": "Генерация пейлоада через msfvenom.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

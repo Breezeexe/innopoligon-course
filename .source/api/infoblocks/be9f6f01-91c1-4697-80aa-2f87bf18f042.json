@@ -1,0 +1,14 @@
+{
+  "name": "PTES: фазы пентеста от pre-engagement до отчёта",
+  "description": "Конспект «PTES: фазы пентеста от pre-engagement до отчёта»",
+  "uuid": "be9f6f01-91c1-4697-80aa-2f87bf18f042",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5931442550.md",
+      "original_id": "PTES： фазы пентеста от pre-engagement до отчёта.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "SharpRDP для удалённого выполнения команд через RDP-канал",
+  "description": "Конспект «SharpRDP для удалённого выполнения команд через RDP-канал»",
+  "uuid": "cdd63909-4a83-4483-a7c7-4bcc61a84742",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp7981162467.md",
+      "original_id": "SharpRDP для удалённого выполнения команд через RDP-канал.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

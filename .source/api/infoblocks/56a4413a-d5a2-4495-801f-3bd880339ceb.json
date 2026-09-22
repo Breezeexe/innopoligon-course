@@ -1,0 +1,14 @@
+{
+  "name": "Drive-by downloads через уязвимости браузера",
+  "description": "Конспект «Drive-by downloads через уязвимости браузера»",
+  "uuid": "56a4413a-d5a2-4495-801f-3bd880339ceb",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp7759604470.md",
+      "original_id": "Drive-by downloads через уязвимости браузера.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

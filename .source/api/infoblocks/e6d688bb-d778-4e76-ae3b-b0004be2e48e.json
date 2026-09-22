@@ -1,0 +1,14 @@
+{
+  "name": "SpiderFoot: автоматизированный OSINT с агрегацией источников",
+  "description": "Конспект «SpiderFoot: автоматизированный OSINT с агрегацией источников»",
+  "uuid": "e6d688bb-d778-4e76-ae3b-b0004be2e48e",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp7853465518.md",
+      "original_id": "SpiderFoot： автоматизированный OSINT с агрегацией источников.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Передача через SSH: scp и rsync",
+  "description": "Конспект «Передача через SSH: scp и rsync»",
+  "uuid": "7f39e95e-71ba-49e3-939b-2998b2d7e559",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5416535894.md",
+      "original_id": "Передача через SSH： scp и rsync.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

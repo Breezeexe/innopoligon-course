@@ -1,0 +1,14 @@
+{
+  "name": "Web Application Pentest: специфика и инструментарий",
+  "description": "Конспект «Web Application Pentest: специфика и инструментарий»",
+  "uuid": "4a646c42-bb38-4fb8-9dd9-ca73ff990df1",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2462752234.md",
+      "original_id": "Web Application Pentest： специфика и инструментарий.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

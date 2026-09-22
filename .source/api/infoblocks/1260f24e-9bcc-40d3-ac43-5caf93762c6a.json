@@ -1,0 +1,14 @@
+{
+  "name": "NIST SP 800-115 как руководство по техническому тестированию",
+  "description": "Конспект «NIST SP 800-115 как руководство по техническому тестированию»",
+  "uuid": "1260f24e-9bcc-40d3-ac43-5caf93762c6a",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3535155522.md",
+      "original_id": "NIST SP 800-115 как руководство по техническому тестированию.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

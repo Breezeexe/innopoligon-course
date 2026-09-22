@@ -1,0 +1,14 @@
+{
+  "name": "Контекст пользователя, его группы и sudo-права",
+  "description": "Конспект «Контекст пользователя, его группы и sudo-права»",
+  "uuid": "c14faf61-fcaa-413d-889c-16fcc2075802",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2224934784.md",
+      "original_id": "Контекст пользователя, его группы и sudo-права.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

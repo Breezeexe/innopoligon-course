@@ -1,0 +1,53 @@
+{
+  "id": 1188,
+  "name": "Практика - Закрепление на Windows-хосте",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "f86929c2-839b-442f-bee0-b0167f945bed",
+  "uuid": "50454e54-4553-542d-5032-300000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "788a6be8-c135-4d19-ba36-df60e1978f6e",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5032-300000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1823,
+      "name": "Практика 20 — Пост-эксплуатация",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5032-300000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 2,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "788a6be8-c135-4d19-ba36-df60e1978f6e",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

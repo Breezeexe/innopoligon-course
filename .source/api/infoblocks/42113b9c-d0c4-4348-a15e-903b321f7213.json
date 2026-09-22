@@ -1,0 +1,14 @@
+{
+  "name": "Настройка DKIM, SPF и DMARC на собственном фишинг-домене",
+  "description": "Конспект «Настройка DKIM, SPF и DMARC на собственном фишинг-домене»",
+  "uuid": "42113b9c-d0c4-4348-a15e-903b321f7213",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp7781322626.md",
+      "original_id": "Настройка DKIM, SPF и DMARC на собственном фишинг-домене.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Пост-эксплуатация",
+  "description": "Конспект «Пост-эксплуатация»",
+  "uuid": "ff3944f8-adbb-4695-aa56-19199c12cc10",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp6866238355.md",
+      "original_id": "Пост-эксплуатация.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

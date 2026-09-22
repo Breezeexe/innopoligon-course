@@ -1,0 +1,19 @@
+{
+  "source": "https://edu.innopoligon.ru",
+  "exported_at": "2026-09-22T18:04:29.118Z",
+  "user_id": 982,
+  "course_id": 93,
+  "course_name": "Основы тестирования на проникновение",
+  "excluded_topic_ids": [
+    314
+  ],
+  "stats": {
+    "chapters": 11,
+    "topics": 22,
+    "theoryBlocks": 383,
+    "theoryFiles": 383,
+    "practiceCases": 44,
+    "assignments": 44,
+    "assignmentFiles": 0
+  }
+}

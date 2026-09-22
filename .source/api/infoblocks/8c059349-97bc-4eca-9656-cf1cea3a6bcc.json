@@ -1,0 +1,14 @@
+{
+  "name": "WHOIS и Registrar данные как источник о владельце",
+  "description": "Конспект «WHOIS и Registrar данные как источник о владельце»",
+  "uuid": "8c059349-97bc-4eca-9656-cf1cea3a6bcc",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp6444966579.md",
+      "original_id": "WHOIS и Registrar данные как источник о владельце.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

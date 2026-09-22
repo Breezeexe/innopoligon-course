@@ -1,0 +1,14 @@
+{
+  "name": "Nessus как коммерческий стандарт",
+  "description": "Конспект «Nessus как коммерческий стандарт»",
+  "uuid": "bce87752-5664-4c34-ae52-f20c315230b1",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8746428514.md",
+      "original_id": "Nessus как коммерческий стандарт.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

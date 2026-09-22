@@ -1,0 +1,14 @@
+{
+  "name": "CrackMapExec и его форк NetExec для массовых операций",
+  "description": "Конспект «CrackMapExec и его форк NetExec для массовых операций»",
+  "uuid": "709b041f-a050-43f4-ab52-650abfc2b06c",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2496808359.md",
+      "original_id": "CrackMapExec и его форк NetExec для массовых операций.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

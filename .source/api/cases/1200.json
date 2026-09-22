@@ -1,0 +1,53 @@
+{
+  "id": 1200,
+  "name": "Практика - Атаки на SMTP",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "8368dccb-bb50-4847-bfa2-7b0f29a411d0",
+  "uuid": "50454e54-4553-542d-5033-320000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "ae1ad297-60e4-48f7-ba99-76b68a01dc2e",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5033-320000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1835,
+      "name": "Практика 32 — Атаки на сетевые сервисы",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5033-320000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 3,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "ae1ad297-60e4-48f7-ba99-76b68a01dc2e",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

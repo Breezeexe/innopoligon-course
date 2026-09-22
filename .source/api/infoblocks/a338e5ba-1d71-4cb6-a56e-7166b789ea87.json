@@ -1,0 +1,14 @@
+{
+  "name": "Запись в crontab и /etc/cron.d/ как persistence в Linux",
+  "description": "Конспект «Запись в crontab и /etc/cron.d/ как persistence в Linux»",
+  "uuid": "a338e5ba-1d71-4cb6-a56e-7166b789ea87",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8002670537.md",
+      "original_id": "Запись в crontab и ／etc／cron.d／ как persistence в Linux.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

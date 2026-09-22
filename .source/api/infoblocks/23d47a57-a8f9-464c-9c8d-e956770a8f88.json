@@ -1,0 +1,14 @@
+{
+  "name": "DNS Cache Poisoning как атака на резолвер",
+  "description": "Конспект «DNS Cache Poisoning как атака на резолвер»",
+  "uuid": "23d47a57-a8f9-464c-9c8d-e956770a8f88",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4760147029.md",
+      "original_id": "DNS Cache Poisoning как атака на резолвер.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

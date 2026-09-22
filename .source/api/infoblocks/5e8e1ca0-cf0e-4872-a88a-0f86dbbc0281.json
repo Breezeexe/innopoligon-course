@@ -1,0 +1,14 @@
+{
+  "name": "Post-exploitation: закрепление и моделирование business impact",
+  "description": "Конспект «Post-exploitation: закрепление и моделирование business impact»",
+  "uuid": "5e8e1ca0-cf0e-4872-a88a-0f86dbbc0281",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1318019733.md",
+      "original_id": "Post-exploitation： закрепление и моделирование business impact.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

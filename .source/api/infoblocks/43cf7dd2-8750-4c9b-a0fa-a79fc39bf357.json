@@ -1,0 +1,14 @@
+{
+  "name": "Поиск SUID и SGID файлов как векторов повышения",
+  "description": "Конспект «Поиск SUID и SGID файлов как векторов повышения»",
+  "uuid": "43cf7dd2-8750-4c9b-a0fa-a79fc39bf357",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2790414485.md",
+      "original_id": "Поиск SUID и SGID файлов как векторов повышения.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

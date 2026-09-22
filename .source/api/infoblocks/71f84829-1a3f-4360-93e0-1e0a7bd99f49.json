@@ -1,0 +1,14 @@
+{
+  "name": "SSH Dynamic SOCKS Proxy и его применение в pivot",
+  "description": "Конспект «SSH Dynamic SOCKS Proxy и его применение в pivot»",
+  "uuid": "71f84829-1a3f-4360-93e0-1e0a7bd99f49",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4789409268.md",
+      "original_id": "SSH Dynamic SOCKS Proxy и его применение в pivot.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

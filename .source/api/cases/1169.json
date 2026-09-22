@@ -1,0 +1,41 @@
+{
+  "id": 1169,
+  "name": "Практика - Методология и этапы пентеста",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": null,
+  "uuid": "50454e54-4553-542d-5031-000000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "50454e54-4553-542d-5031-000000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1804,
+      "name": "Практика 1 — Методология и этапы пентеста",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5031-000000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 1,
+      "score": 15,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [],
+  "infoblocks_solved": []
+}

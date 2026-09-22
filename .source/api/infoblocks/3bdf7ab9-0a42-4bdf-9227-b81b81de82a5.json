@@ -1,0 +1,14 @@
+{
+  "name": "Reverse Shell: модель, когда атакуемый подключается к атакующему",
+  "description": "Конспект «Reverse Shell: модель, когда атакуемый подключается к атакующему»",
+  "uuid": "3bdf7ab9-0a42-4bdf-9227-b81b81de82a5",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2232858751.md",
+      "original_id": "Reverse Shell： модель, когда атакуемый подключается к атакующему.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Упаковщики типа UPX как базовая обфускация payload",
+  "description": "Конспект «Упаковщики типа UPX как базовая обфускация payload»",
+  "uuid": "8221fa22-81b6-487f-9144-7487992ba9ea",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4586147160.md",
+      "original_id": "Упаковщики типа UPX как базовая обфускация payload.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

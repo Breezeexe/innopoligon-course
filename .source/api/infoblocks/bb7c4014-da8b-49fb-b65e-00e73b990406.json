@@ -1,0 +1,14 @@
+{
+  "name": "Vishing",
+  "description": "Конспект «Vishing»",
+  "uuid": "bb7c4014-da8b-49fb-b65e-00e73b990406",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5273186117.md",
+      "original_id": "Vishing.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

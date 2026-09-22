@@ -1,0 +1,14 @@
+{
+  "name": "HTML smuggling: сборка payload в браузере жертвы",
+  "description": "Конспект «HTML smuggling: сборка payload в браузере жертвы»",
+  "uuid": "d4e77a14-91d9-4b80-a6e4-59b26b7bea40",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp6106139685.md",
+      "original_id": "HTML smuggling： сборка payload в браузере жертвы.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

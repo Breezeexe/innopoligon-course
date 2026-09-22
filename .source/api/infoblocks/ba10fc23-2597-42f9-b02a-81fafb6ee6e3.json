@@ -1,0 +1,14 @@
+{
+  "name": "Слабые DACL на службе или её исполняемом файле",
+  "description": "Конспект «Слабые DACL на службе или её исполняемом файле»",
+  "uuid": "ba10fc23-2597-42f9-b02a-81fafb6ee6e3",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8121973427.md",
+      "original_id": "Слабые DACL на службе или её исполняемом файле.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

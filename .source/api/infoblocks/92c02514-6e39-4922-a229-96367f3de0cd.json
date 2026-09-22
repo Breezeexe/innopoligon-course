@@ -1,0 +1,14 @@
+{
+  "name": "Quishing",
+  "description": "Конспект «Quishing»",
+  "uuid": "92c02514-6e39-4922-a229-96367f3de0cd",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1563731844.md",
+      "original_id": "Quishing.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

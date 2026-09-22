@@ -1,0 +1,14 @@
+{
+  "name": "Удалённое выполнение через WinRM",
+  "description": "Конспект «Удалённое выполнение через WinRM»",
+  "uuid": "a3f9d5b2-b933-4dd4-8ce5-5afdf793be29",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9640354045.md",
+      "original_id": "Удалённое выполнение через WinRM.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

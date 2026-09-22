@@ -1,0 +1,53 @@
+{
+  "id": 1192,
+  "name": "Практика - Туннелирование трафика",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "105edb01-1f15-47d9-b9e4-9fbba74717d8",
+  "uuid": "50454e54-4553-542d-5032-340000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "812a0253-9082-482f-85f2-bf7974bfbcae",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5032-340000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1827,
+      "name": "Практика 24 — Горизонтальное перемещение",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5032-340000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 2,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "812a0253-9082-482f-85f2-bf7974bfbcae",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

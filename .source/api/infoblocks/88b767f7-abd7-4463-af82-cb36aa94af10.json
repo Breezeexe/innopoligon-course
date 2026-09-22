@@ -1,0 +1,14 @@
+{
+  "name": "BlueKeep (CVE-2019-0708) как pre-auth RCE на RDP",
+  "description": "Конспект «BlueKeep (CVE-2019-0708) как pre-auth RCE на RDP»",
+  "uuid": "88b767f7-abd7-4463-af82-cb36aa94af10",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp7119446123.md",
+      "original_id": "BlueKeep (CVE-2019-0708) как pre-auth RCE на RDP.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

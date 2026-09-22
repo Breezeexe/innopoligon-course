@@ -1,0 +1,141 @@
+{
+  "id": 300,
+  "name": "Практика",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5052-350000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": 1183,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1184,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1185,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1186,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1187,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1188,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1189,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1183,
+      "name": "Практика - Разведка на скомпрометированном Windows-хосте",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "b1a3e188-883c-4ee5-8228-5084482113b1",
+      "uuid": "50454e54-4553-542d-5031-350000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1184,
+      "name": "Практика - Разведка на скомпрометированном Linux-хосте",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "5324e2c5-6732-44da-8c78-ed83ab8506f9",
+      "uuid": "50454e54-4553-542d-5031-360000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1185,
+      "name": "Практика - Living-off-the-Land Binaries",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "d275d761-670c-4aa5-b568-505065c0419f",
+      "uuid": "50454e54-4553-542d-5031-370000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1186,
+      "name": "Практика - Передача файлов на скомпрометированный хост",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "d4bf7268-cae5-4aa1-b018-07c81dcf16f9",
+      "uuid": "50454e54-4553-542d-5031-380000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1187,
+      "name": "Практика - Извлечение учётных данных",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "510a4edf-3918-4977-a372-1b1c7e84e226",
+      "uuid": "50454e54-4553-542d-5031-390000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1188,
+      "name": "Практика - Закрепление на Windows-хосте",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "f86929c2-839b-442f-bee0-b0167f945bed",
+      "uuid": "50454e54-4553-542d-5032-300000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1189,
+      "name": "Практика - Закрепление на Linux-хосте",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "31a58246-f939-40e9-bb37-f0cd37ac6a51",
+      "uuid": "50454e54-4553-542d-5032-310000000000"
+    }
+  ],
+  "infoblocks": [],
+  "infoblocks_solved": []
+}

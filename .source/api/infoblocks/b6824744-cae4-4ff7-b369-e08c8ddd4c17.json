@@ -1,0 +1,14 @@
+{
+  "name": "Удалённое выполнение через SMB",
+  "description": "Конспект «Удалённое выполнение через SMB»",
+  "uuid": "b6824744-cae4-4ff7-b369-e08c8ddd4c17",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8496961132.md",
+      "original_id": "Удалённое выполнение через SMB.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

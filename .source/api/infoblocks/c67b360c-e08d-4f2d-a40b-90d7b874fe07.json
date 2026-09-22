@@ -1,0 +1,14 @@
+{
+  "name": "Reconnaissance: сбор открытой информации о цели",
+  "description": "Конспект «Reconnaissance: сбор открытой информации о цели»",
+  "uuid": "c67b360c-e08d-4f2d-a40b-90d7b874fe07",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp6700018406.md",
+      "original_id": "Reconnaissance： сбор открытой информации о цели.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

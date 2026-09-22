@@ -1,0 +1,14 @@
+{
+  "name": "Remediation testing: проверка устранения найденных уязвимостей",
+  "description": "Конспект «Remediation testing: проверка устранения найденных уязвимостей»",
+  "uuid": "2217f2e0-485f-4f55-a8f5-92df4ada1eeb",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5490731117.md",
+      "original_id": "Remediation testing： проверка устранения найденных уязвимостей.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

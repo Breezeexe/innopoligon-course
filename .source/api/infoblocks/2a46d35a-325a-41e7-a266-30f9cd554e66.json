@@ -1,0 +1,14 @@
+{
+  "name": "Поиск уязвимостей",
+  "description": "Конспект «Поиск уязвимостей»",
+  "uuid": "2a46d35a-325a-41e7-a266-30f9cd554e66",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3490313357.md",
+      "original_id": "Поиск уязвимостей.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

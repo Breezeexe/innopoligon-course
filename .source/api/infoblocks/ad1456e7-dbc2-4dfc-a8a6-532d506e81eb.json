@@ -1,0 +1,14 @@
+{
+  "name": "Брутфорс RDP-паролей через hydra и crowbar",
+  "description": "Конспект «Брутфорс RDP-паролей через hydra и crowbar»",
+  "uuid": "ad1456e7-dbc2-4dfc-a8a6-532d506e81eb",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9629596158.md",
+      "original_id": "Брутфорс RDP-паролей через hydra и crowbar.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Certificate Transparency как источник поддоменов и сертификатов",
+  "description": "Конспект «Certificate Transparency как источник поддоменов и сертификатов»",
+  "uuid": "344515c3-f406-48fa-8f9b-0455fc65151a",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4203436634.md",
+      "original_id": "Certificate Transparency как источник поддоменов и сертификатов.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

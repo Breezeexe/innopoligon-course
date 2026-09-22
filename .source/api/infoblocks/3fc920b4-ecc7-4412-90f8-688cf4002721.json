@@ -1,0 +1,14 @@
+{
+  "name": "Grey Box: тестирование с ограниченными credentials и схемой",
+  "description": "Конспект «Grey Box: тестирование с ограниченными credentials и схемой»",
+  "uuid": "3fc920b4-ecc7-4412-90f8-688cf4002721",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5179127865.md",
+      "original_id": "Grey Box： тестирование с ограниченными credentials и схемой.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

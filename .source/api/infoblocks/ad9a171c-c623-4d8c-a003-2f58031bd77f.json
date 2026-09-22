@@ -1,0 +1,14 @@
+{
+  "name": "MySQL UDF: загрузка кастомных функций для RCE",
+  "description": "Конспект «MySQL UDF: загрузка кастомных функций для RCE»",
+  "uuid": "ad9a171c-c623-4d8c-a003-2f58031bd77f",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp6530863546.md",
+      "original_id": "MySQL UDF： загрузка кастомных функций для RCE.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

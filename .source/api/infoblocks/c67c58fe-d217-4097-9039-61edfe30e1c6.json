@@ -1,0 +1,14 @@
+{
+  "name": "Разбор отчёта Nessus и работа с CVSS-скорами",
+  "description": "Конспект «Разбор отчёта Nessus и работа с CVSS-скорами»",
+  "uuid": "c67c58fe-d217-4097-9039-61edfe30e1c6",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9127798461.md",
+      "original_id": "Разбор отчёта Nessus и работа с CVSS-скорами.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

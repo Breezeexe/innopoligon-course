@@ -1,0 +1,14 @@
+{
+  "name": "SSH Local Port Forwarding для проброса локального порта",
+  "description": "Конспект «SSH Local Port Forwarding для проброса локального порта»",
+  "uuid": "233bb506-4479-4a46-8dd2-9559562e1cc4",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp7811156749.md",
+      "original_id": "SSH Local Port Forwarding для проброса локального порта.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

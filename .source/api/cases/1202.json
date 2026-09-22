@@ -1,0 +1,53 @@
+{
+  "id": 1202,
+  "name": "Практика - Атаки на DNS",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "dc094516-f38b-430f-a45c-1a353a35fef5",
+  "uuid": "50454e54-4553-542d-5033-340000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "b4c5378d-0f55-4155-90d3-44704b366251",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5033-340000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1837,
+      "name": "Практика 34 — Атаки на сетевые сервисы",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5033-340000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 2,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "b4c5378d-0f55-4155-90d3-44704b366251",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

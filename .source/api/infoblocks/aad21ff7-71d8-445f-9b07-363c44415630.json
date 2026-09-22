@@ -1,0 +1,14 @@
+{
+  "name": "Тестирование cookies, headers и POST-параметров через sqlmap",
+  "description": "Конспект «Тестирование cookies, headers и POST-параметров через sqlmap»",
+  "uuid": "aad21ff7-71d8-445f-9b07-363c44415630",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp5532327287.md",
+      "original_id": "Тестирование cookies, headers и POST-параметров через sqlmap.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

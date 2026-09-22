@@ -1,0 +1,14 @@
+{
+  "name": "DNS Rebinding как атака на внутренние сервисы из браузера",
+  "description": "Конспект «DNS Rebinding как атака на внутренние сервисы из браузера»",
+  "uuid": "228aeea9-756c-42c4-ad66-48c7ee16abbd",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2511470810.md",
+      "original_id": "DNS Rebinding как атака на внутренние сервисы из браузера.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

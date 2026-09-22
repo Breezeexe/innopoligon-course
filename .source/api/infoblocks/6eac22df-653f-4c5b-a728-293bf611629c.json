@@ -1,0 +1,14 @@
+{
+  "name": "sudo -l и сверка прав с базой GTFOBins",
+  "description": "Конспект «sudo -l и сверка прав с базой GTFOBins»",
+  "uuid": "6eac22df-653f-4c5b-a728-293bf611629c",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9211053878.md",
+      "original_id": "sudo -l и сверка прав с базой GTFOBins.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

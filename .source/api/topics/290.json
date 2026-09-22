@@ -1,0 +1,45 @@
+{
+  "id": 290,
+  "name": "Отчётность по пентесту",
+  "description": null,
+  "uuid": "ce850a55-6881-4c16-8f3c-4b776b5863cf",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": 311,
+      "type": "TOPIC",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 312,
+      "type": "TOPIC",
+      "position": "DEFAULT"
+    }
+  ],
+  "assignments": [],
+  "topics": [
+    {
+      "progress": 100,
+      "fraction_progress": "0/0",
+      "id": 311,
+      "name": "Теория",
+      "description": null,
+      "uuid": "50454e54-4553-542d-5431-310000000000",
+      "blocked_topic_uuid": null,
+      "courses_ids": null
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/3",
+      "id": 312,
+      "name": "Практика",
+      "description": null,
+      "uuid": "50454e54-4553-542d-5052-313100000000",
+      "blocked_topic_uuid": null,
+      "courses_ids": null
+    }
+  ],
+  "case_containers": [],
+  "infoblocks": [],
+  "infoblocks_solved": []
+}

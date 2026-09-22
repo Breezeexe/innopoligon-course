@@ -1,0 +1,14 @@
+{
+  "name": "Credentialed scan: проверки с аутентификацией",
+  "description": "Конспект «Credentialed scan: проверки с аутентификацией»",
+  "uuid": "6ab09f59-713f-444d-8a9d-9a491c56e659",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1515932637.md",
+      "original_id": "Credentialed scan： проверки с аутентификацией.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

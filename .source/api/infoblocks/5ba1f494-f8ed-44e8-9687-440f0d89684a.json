@@ -1,0 +1,14 @@
+{
+  "name": "Этапы пентеста",
+  "description": "Конспект «Этапы пентеста»",
+  "uuid": "5ba1f494-f8ed-44e8-9687-440f0d89684a",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8446903685.md",
+      "original_id": "Этапы пентеста.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Сканирование уязвимостей через nmap",
+  "description": "Конспект «Сканирование уязвимостей через nmap»",
+  "uuid": "cb10e8bc-af0a-4a06-ad00-c1addc0fb287",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1044125875.md",
+      "original_id": "Сканирование уязвимостей через nmap.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

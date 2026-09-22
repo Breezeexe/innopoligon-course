@@ -1,0 +1,14 @@
+{
+  "name": "CVSS v3.1 как индустриальный стандарт оценки уязвимостей",
+  "description": "Конспект «CVSS v3.1 как индустриальный стандарт оценки уязвимостей»",
+  "uuid": "7c1fb51f-8d41-4a52-a367-56101ee1bb6d",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3386833358.md",
+      "original_id": "CVSS v3.1 как индустриальный стандарт оценки уязвимостей.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "files": [],
+  "tests": [
+    {
+      "id": 1,
+      "quest": "Какой флаг лежит в C:\\loot\\persist.flag после закрепления четырьмя способами?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    },
+    {
+      "id": 2,
+      "quest": "Какой каталог на цели открыт группе «Пользователи» на запись?",
+      "checked_answer_is_correct": null,
+      "score": 1,
+      "files": null,
+      "hints": [],
+      "answer": null,
+      "prev_answer": null,
+      "temp_answer": null,
+      "checked_answer": null,
+      "type": "INPUT_STRING"
+    }
+  ],
+  "legend": null,
+  "assignment_uuid": "50454e54-4553-542d-5032-300000000000",
+  "version_by_user": null,
+  "attempt": 1
+}

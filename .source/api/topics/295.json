@@ -1,0 +1,323 @@
+{
+  "id": 295,
+  "name": "Теория",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5433-000000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": "2a46d35a-325a-41e7-a266-30f9cd554e66",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "cb10e8bc-af0a-4a06-ad00-c1addc0fb287",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "83f186b9-48b1-4dec-ada1-9a7ac9f2cd55",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "b58f159e-b3a9-45c4-a27c-66cc6c7eedc2",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "65fa9b19-d365-4440-b378-c76c9712b106",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "83ff7cd7-7405-4d20-91ba-db6e838bc16c",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "257da3b0-e0cc-42b8-a63d-1fcd4a950244",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "3c3623c0-af89-4a84-96cd-324eb96eee7e",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "49218496-bbab-47cb-92cf-36c3d1d26ef9",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "eccaef3f-1cc1-4bbd-bcc5-9186d17508cd",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "be44fde7-74e1-47e8-afab-92834bd2da8e",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "334fc73d-9482-4390-85c7-dcdf1f608c50",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "8dd4714f-0a6c-46e5-814c-dc236df105c9",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "90f7c2f2-a06d-4bcb-b995-a0dc9b4849dd",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "22866b91-14c8-4eaf-a543-abcd534a06e3",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "9d293408-24df-4161-b898-ed828c67fca8",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "b5918099-2a1d-4d7c-a8d8-ccc5a0c574dd",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "bce87752-5664-4c34-ae52-f20c315230b1",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "f493cc54-1dea-415e-b180-705483d520b1",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "6ab09f59-713f-444d-8a9d-9a491c56e659",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "c67c58fe-d217-4097-9039-61edfe30e1c6",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "54c94c75-5260-490e-908e-07dd2d35717c",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "891bccff-87fc-4303-a3c4-7c6e447f6df4",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "684a1c5a-752d-44a9-8810-331aee8ae37f",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "06adbf41-fe74-485e-87a3-5586f5dee6f2",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "151d3941-698e-4858-b684-642c0715b931",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "291917a3-a304-4424-b3e6-b5e2a2bcbf04",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "8e8097d5-ec89-4020-ab7b-e67da5d3c359",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [],
+  "infoblocks": [
+    {
+      "name": "Поиск уязвимостей",
+      "description": "Конспект «Поиск уязвимостей»",
+      "uuid": "2a46d35a-325a-41e7-a266-30f9cd554e66",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Сканирование уязвимостей через nmap",
+      "description": "Конспект «Сканирование уязвимостей через nmap»",
+      "uuid": "cb10e8bc-af0a-4a06-ad00-c1addc0fb287",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Базовые типы сканирования и их применимость",
+      "description": "Конспект «Базовые типы сканирования и их применимость»",
+      "uuid": "83f186b9-48b1-4dec-ada1-9a7ac9f2cd55",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Скрипты vuln-категории для проверки известных CVE",
+      "description": "Конспект «Скрипты vuln-категории для проверки известных CVE»",
+      "uuid": "b58f159e-b3a9-45c4-a27c-66cc6c7eedc2",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "NSE-скрипты для специфических протоколов: smb, http",
+      "description": "Конспект «NSE-скрипты для специфических протоколов: smb, http»",
+      "uuid": "65fa9b19-d365-4440-b378-c76c9712b106",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Скорость и timing templates для скрытного сканирования",
+      "description": "Конспект «Скорость и timing templates для скрытного сканирования»",
+      "uuid": "83ff7cd7-7405-4d20-91ba-db6e838bc16c",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "OpenVAS / Greenbone Vulnerability Manager",
+      "description": "Конспект «OpenVAS / Greenbone Vulnerability Manager»",
+      "uuid": "257da3b0-e0cc-42b8-a63d-1fcd4a950244",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Установка и первичная настройка GVM",
+      "description": "Конспект «Установка и первичная настройка GVM»",
+      "uuid": "3c3623c0-af89-4a84-96cd-324eb96eee7e",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Конфигурация scan target и task для сканирования",
+      "description": "Конспект «Конфигурация scan target и task для сканирования»",
+      "uuid": "49218496-bbab-47cb-92cf-36c3d1d26ef9",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Анализ отчёта GVM и приоритизация находок по CVSS",
+      "description": "Конспект «Анализ отчёта GVM и приоритизация находок по CVSS»",
+      "uuid": "eccaef3f-1cc1-4bbd-bcc5-9186d17508cd",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Кастомизация конфигураций сканирования под задачу заказчика",
+      "description": "Конспект «Кастомизация конфигураций сканирования под задачу заказчика»",
+      "uuid": "be44fde7-74e1-47e8-afab-92834bd2da8e",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Nuclei как современный сканер",
+      "description": "Конспект «Nuclei как современный сканер»",
+      "uuid": "334fc73d-9482-4390-85c7-dcdf1f608c50",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Шаблоны Nuclei: структура и язык описания",
+      "description": "Конспект «Шаблоны Nuclei: структура и язык описания»",
+      "uuid": "8dd4714f-0a6c-46e5-814c-dc236df105c9",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Запуск по URL и спискам целей с фильтрами",
+      "description": "Конспект «Запуск по URL и спискам целей с фильтрами»",
+      "uuid": "90f7c2f2-a06d-4bcb-b995-a0dc9b4849dd",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Создание собственных шаблонов под специфические проверки",
+      "description": "Конспект «Создание собственных шаблонов под специфические проверки»",
+      "uuid": "22866b91-14c8-4eaf-a543-abcd534a06e3",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Severity-классификация и фильтрация результатов",
+      "description": "Конспект «Severity-классификация и фильтрация результатов»",
+      "uuid": "9d293408-24df-4161-b898-ed828c67fca8",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Интеграция Nuclei в CI/CD для регрессионного сканирования",
+      "description": "Конспект «Интеграция Nuclei в CI/CD для регрессионного сканирования»",
+      "uuid": "b5918099-2a1d-4d7c-a8d8-ccc5a0c574dd",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Nessus как коммерческий стандарт",
+      "description": "Конспект «Nessus как коммерческий стандарт»",
+      "uuid": "bce87752-5664-4c34-ae52-f20c315230b1",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Политики и шаблоны сканирования под разные задачи",
+      "description": "Конспект «Политики и шаблоны сканирования под разные задачи»",
+      "uuid": "f493cc54-1dea-415e-b180-705483d520b1",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Credentialed scan: проверки с аутентификацией",
+      "description": "Конспект «Credentialed scan: проверки с аутентификацией»",
+      "uuid": "6ab09f59-713f-444d-8a9d-9a491c56e659",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Разбор отчёта Nessus и работа с CVSS-скорами",
+      "description": "Конспект «Разбор отчёта Nessus и работа с CVSS-скорами»",
+      "uuid": "c67c58fe-d217-4097-9039-61edfe30e1c6",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Связь находок Nessus с целями пентест-задания",
+      "description": "Конспект «Связь находок Nessus с целями пентест-задания»",
+      "uuid": "54c94c75-5260-490e-908e-07dd2d35717c",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Compliance-сканирование по шаблонам PCI DSS и HIPAA",
+      "description": "Конспект «Compliance-сканирование по шаблонам PCI DSS и HIPAA»",
+      "uuid": "891bccff-87fc-4303-a3c4-7c6e447f6df4",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Специализированные web-сканеры",
+      "description": "Конспект «Специализированные web-сканеры»",
+      "uuid": "684a1c5a-752d-44a9-8810-331aee8ae37f",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Burp Suite Pro: интерактивное и автоматическое сканирование",
+      "description": "Конспект «Burp Suite Pro: интерактивное и автоматическое сканирование»",
+      "uuid": "06adbf41-fe74-485e-87a3-5586f5dee6f2",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "OWASP ZAP как open-source альтернатива Burp",
+      "description": "Конспект «OWASP ZAP как open-source альтернатива Burp»",
+      "uuid": "151d3941-698e-4858-b684-642c0715b931",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Acunetix как коммерческий web-сканер",
+      "description": "Конспект «Acunetix как коммерческий web-сканер»",
+      "uuid": "291917a3-a304-4424-b3e6-b5e2a2bcbf04",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Qualys VMDR и Tenable.io как enterprise-платформы",
+      "description": "Конспект «Qualys VMDR и Tenable.io как enterprise-платформы»",
+      "uuid": "8e8097d5-ec89-4020-ab7b-e67da5d3c359",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

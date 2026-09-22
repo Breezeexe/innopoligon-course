@@ -1,0 +1,14 @@
+{
+  "name": "Брутфорс SMB-учёток через CrackMapExec и NetExec",
+  "description": "Конспект «Брутфорс SMB-учёток через CrackMapExec и NetExec»",
+  "uuid": "a447f02a-c47f-4645-9003-2359957f9555",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3420151172.md",
+      "original_id": "Брутфорс SMB-учёток через CrackMapExec и NetExec.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

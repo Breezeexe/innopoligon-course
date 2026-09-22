@@ -1,0 +1,53 @@
+{
+  "id": 1175,
+  "name": "Практика - Nuclei как современный сканер",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "65fbb1cf-5a0d-41f2-8521-1ed19117a567",
+  "uuid": "50454e54-4553-542d-5037-000000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "3d3838d3-9ccb-41dc-a35b-3f938928258d",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5037-000000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1810,
+      "name": "Практика 7 — Поиск уязвимостей",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5037-000000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 4,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "3d3838d3-9ccb-41dc-a35b-3f938928258d",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

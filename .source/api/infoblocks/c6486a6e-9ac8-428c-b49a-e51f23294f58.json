@@ -1,0 +1,14 @@
+{
+  "name": "LLM для генерации убедительных фишинговых писем",
+  "description": "Конспект «LLM для генерации убедительных фишинговых писем»",
+  "uuid": "c6486a6e-9ac8-428c-b49a-e51f23294f58",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9493591303.md",
+      "original_id": "LLM для генерации убедительных фишинговых писем.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

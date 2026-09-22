@@ -1,0 +1,14 @@
+{
+  "name": "SSH Remote Port Forwarding для обратного проброса",
+  "description": "Конспект «SSH Remote Port Forwarding для обратного проброса»",
+  "uuid": "5efaf270-2445-4999-8c4c-d881d824f4fa",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9677101257.md",
+      "original_id": "SSH Remote Port Forwarding для обратного проброса.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

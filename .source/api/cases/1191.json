@@ -1,0 +1,53 @@
+{
+  "id": 1191,
+  "name": "Практика - Повышение привилегий на Linux",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "e9884090-0102-4613-97d5-6ad653cdc6ae",
+  "uuid": "50454e54-4553-542d-5032-330000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "18fc431c-65db-49ff-a8af-3d485a5e5cc9",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5032-330000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1826,
+      "name": "Практика 23 — Повышение привилегий",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5032-330000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 8,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "18fc431c-65db-49ff-a8af-3d485a5e5cc9",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

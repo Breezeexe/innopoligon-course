@@ -1,0 +1,14 @@
+{
+  "name": "Out-of-band SQLi через DNS или HTTP-канал",
+  "description": "Конспект «Out-of-band SQLi через DNS или HTTP-канал»",
+  "uuid": "fb892acc-e28f-4b25-8ef5-d170cbf4086f",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1530174552.md",
+      "original_id": "Out-of-band SQLi через DNS или HTTP-канал.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

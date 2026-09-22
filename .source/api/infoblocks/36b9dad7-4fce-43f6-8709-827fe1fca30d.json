@@ -1,0 +1,14 @@
+{
+  "name": "MongoDB: дефолтная аутентификация и её отсутствие в установке",
+  "description": "Конспект «MongoDB: дефолтная аутентификация и её отсутствие в установке»",
+  "uuid": "36b9dad7-4fce-43f6-8709-827fe1fca30d",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1217353456.md",
+      "original_id": "MongoDB： дефолтная аутентификация и её отсутствие в установке.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Social Engineering как отдельная дисциплина пентеста",
+  "description": "Конспект «Social Engineering как отдельная дисциплина пентеста»",
+  "uuid": "fec6e64f-4a9d-4560-806d-1dc72e628faa",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1311673920.md",
+      "original_id": "Social Engineering как отдельная дисциплина пентеста.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

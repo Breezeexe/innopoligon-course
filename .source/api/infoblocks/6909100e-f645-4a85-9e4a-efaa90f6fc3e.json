@@ -1,0 +1,14 @@
+{
+  "name": "Encoders msfvenom и их ограничения против современных AV",
+  "description": "Конспект «Encoders msfvenom и их ограничения против современных AV»",
+  "uuid": "6909100e-f645-4a85-9e4a-efaa90f6fc3e",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9626484473.md",
+      "original_id": "Encoders msfvenom и их ограничения против современных AV.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

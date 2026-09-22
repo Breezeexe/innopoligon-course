@@ -1,0 +1,14 @@
+{
+  "name": "Автоматический поиск векторов PrivEsc через LinPEAS и LinEnum",
+  "description": "Конспект «Автоматический поиск векторов PrivEsc через LinPEAS и LinEnum»",
+  "uuid": "991bb6fb-6443-47fc-b996-1a97ad9f8055",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp1444076170.md",
+      "original_id": "Автоматический поиск векторов PrivEsc через LinPEAS и LinEnum.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Вредоносный PAM-модуль для перехвата паролей",
+  "description": "Конспект «Вредоносный PAM-модуль для перехвата паролей»",
+  "uuid": "3cbfcda6-7b0f-45f1-97db-55ac7772d38b",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2442088799.md",
+      "original_id": "Вредоносный PAM-модуль для перехвата паролей.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Compliance-сканирование по шаблонам PCI DSS и HIPAA",
+  "description": "Конспект «Compliance-сканирование по шаблонам PCI DSS и HIPAA»",
+  "uuid": "891bccff-87fc-4303-a3c4-7c6e447f6df4",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9605889600.md",
+      "original_id": "Compliance-сканирование по шаблонам PCI DSS и HIPAA.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

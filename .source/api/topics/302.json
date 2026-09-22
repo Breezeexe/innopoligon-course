@@ -1,0 +1,51 @@
+{
+  "id": 302,
+  "name": "Практика",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5052-360000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": 1190,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1191,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1190,
+      "name": "Практика - Повышение привилегий на Windows",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "c2f4e9e5-ef85-4f0f-94df-6c4a128b5046",
+      "uuid": "50454e54-4553-542d-5032-320000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1191,
+      "name": "Практика - Повышение привилегий на Linux",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": "e9884090-0102-4613-97d5-6ad653cdc6ae",
+      "uuid": "50454e54-4553-542d-5032-330000000000"
+    }
+  ],
+  "infoblocks": [],
+  "infoblocks_solved": []
+}

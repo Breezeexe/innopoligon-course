@@ -1,0 +1,53 @@
+{
+  "id": 1179,
+  "name": "Практика - Поиск и адаптация эксплоитов",
+  "business_id": null,
+  "description": null,
+  "tags": null,
+  "shadow_tags": null,
+  "difficult": "easy",
+  "lab_uuid": "a81acd77-6b66-41ea-9678-7d92b0029af1",
+  "uuid": "50454e54-4553-542d-5031-310000000000",
+  "contr_case_container_id": null,
+  "file_name": null,
+  "sequences": [
+    {
+      "id": "f0dd4733-c58d-4f13-8068-ed69c45be8ad",
+      "type": "INFOBLOCK",
+      "position": "DEFAULT"
+    },
+    {
+      "id": "50454e54-4553-542d-5031-310000000000",
+      "type": "ASSIGNMENT",
+      "position": "DEFAULT"
+    }
+  ],
+  "practical": [],
+  "assignments": [
+    {
+      "id": 1814,
+      "name": "Практика 11 — Получение начального доступа",
+      "description": null,
+      "min_percentage_correct_answers": 80,
+      "attempt": 4,
+      "uuid": "50454e54-4553-542d-5031-310000000000",
+      "mutual": null,
+      "task_type": "PRACTICE",
+      "direct_competencies_tag": null,
+      "competencies_tags": null,
+      "attempts_spent": 0,
+      "score": 2,
+      "passed": false,
+      "user_score": null
+    }
+  ],
+  "infoblocks": [
+    {
+      "name": "Задание",
+      "description": "",
+      "uuid": "f0dd4733-c58d-4f13-8068-ed69c45be8ad",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

@@ -1,0 +1,411 @@
+{
+  "id": 297,
+  "name": "Теория",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5434-000000000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": "1eac94ce-8cd0-4f46-889f-66b36aafc4b0",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "a5f84bfc-903b-4b17-8155-b0cca8230f3f",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "afa307b6-8afb-4ba8-b97b-baaf3f7468ff",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "3bdf7ab9-0a42-4bdf-9227-b81b81de82a5",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "aa2b6228-b051-4bdd-87fb-243251137b8b",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "64f47be5-bfdc-462f-9988-9e7c23743c54",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "645625d2-8c79-40b7-81e8-4326092ee515",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "eae78e8e-c2ae-4132-8d69-c759dd51faa1",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "f7643666-0828-4b08-a2a6-65307e5f4732",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "0f7be0f0-3b7b-45c4-b57b-57dde2f1d9f0",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "6d41a5d3-2759-4d22-b5b6-158a3540c865",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "916fb2bf-6d1b-4c60-95ae-90b610692633",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "c690f9c6-9b92-4a4e-ac7e-da4077d5b570",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "306fe79b-a203-45ee-bc55-fd495e4e7101",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "10d4babf-7422-4fc0-b122-15a55e616d93",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "a818aa42-f3a3-4494-a251-e0c6c51d77b0",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "b76b1737-32a5-47f8-9c5f-1c362d48070a",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "14a7ca47-3738-4daf-b117-d4924097ac5c",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "7cbfef54-4488-4226-aa10-498a0e5ab6ce",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "f38d360c-5714-42c8-bfda-9addd1606bad",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "73b1b3ca-86fd-4faa-b76e-ef4cbf5a7987",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "6909100e-f645-4a85-9e4a-efaa90f6fc3e",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "53321ef1-890b-46e0-969f-47290be5e4d0",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "10303688-3abe-44c0-b005-ffa54b70e779",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "8221fa22-81b6-487f-9144-7487992ba9ea",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "216699f8-a8c1-48ee-9888-f63d51f4c663",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "a3f3fe07-531a-446e-88c7-ac961cfdac4b",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "741b0910-c1b7-4995-b421-21baa57ed0f8",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "00c6c02e-f560-44e7-ad1f-b7a6eb299395",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "103e5ac1-bee1-4c52-a60c-65065aea809b",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "cd8056ff-a134-49b5-8e97-247165e9f994",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "bf06515c-1fd5-4839-8de3-f8aeefb19f3b",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "b516657a-f848-4296-a270-2297ddd7aec9",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "47eac618-b982-4837-9bc6-655d102ef024",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "d4e77a14-91d9-4b80-a6e4-59b26b7bea40",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    },
+    {
+      "id": "56a4413a-d5a2-4495-801f-3bd880339ceb",
+      "type": "INFOBLOCK",
+      "position": "DESCRIPTION"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [],
+  "infoblocks": [
+    {
+      "name": "Получение начального доступа",
+      "description": "Конспект «Получение начального доступа»",
+      "uuid": "1eac94ce-8cd0-4f46-889f-66b36aafc4b0",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Шеллы и удалённый доступ",
+      "description": "Конспект «Шеллы и удалённый доступ»",
+      "uuid": "a5f84bfc-903b-4b17-8155-b0cca8230f3f",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Bind Shell: модель, когда атакуемый хост слушает порт",
+      "description": "Конспект «Bind Shell: модель, когда атакуемый хост слушает порт»",
+      "uuid": "afa307b6-8afb-4ba8-b97b-baaf3f7468ff",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Reverse Shell: модель, когда атакуемый подключается к атакующему",
+      "description": "Конспект «Reverse Shell: модель, когда атакуемый подключается к атакующему»",
+      "uuid": "3bdf7ab9-0a42-4bdf-9227-b81b81de82a5",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Реализации reverse shell на Bash, Python и PowerShell",
+      "description": "Конспект «Реализации reverse shell на Bash, Python и PowerShell»",
+      "uuid": "aa2b6228-b051-4bdd-87fb-243251137b8b",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Стабилизация интерактивного шелла через выделение PTY",
+      "description": "Конспект «Стабилизация интерактивного шелла через выделение PTY»",
+      "uuid": "64f47be5-bfdc-462f-9988-9e7c23743c54",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Webshell",
+      "description": "Конспект «Webshell»",
+      "uuid": "645625d2-8c79-40b7-81e8-4326092ee515",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Загрузка webshell через уязвимость file upload",
+      "description": "Конспект «Загрузка webshell через уязвимость file upload»",
+      "uuid": "eae78e8e-c2ae-4132-8d69-c759dd51faa1",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Обфускация webshell для обхода антивируса",
+      "description": "Конспект «Обфускация webshell для обхода антивируса»",
+      "uuid": "f7643666-0828-4b08-a2a6-65307e5f4732",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Шифрованные шеллы и техники сокрытия канала управления",
+      "description": "Конспект «Шифрованные шеллы и техники сокрытия канала управления»",
+      "uuid": "0f7be0f0-3b7b-45c4-b57b-57dde2f1d9f0",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Поиск и адаптация эксплоитов",
+      "description": "Конспект «Поиск и адаптация эксплоитов»",
+      "uuid": "6d41a5d3-2759-4d22-b5b6-158a3540c865",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Публичные базы эксплоитов: Exploit-DB и аналоги",
+      "description": "Конспект «Публичные базы эксплоитов: Exploit-DB и аналоги»",
+      "uuid": "916fb2bf-6d1b-4c60-95ae-90b610692633",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "searchsploit как локальный поисковик по базе Exploit-DB",
+      "description": "Конспект «searchsploit как локальный поисковик по базе Exploit-DB»",
+      "uuid": "c690f9c6-9b92-4a4e-ac7e-da4077d5b570",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "CVE Mitre и NVD как первичные источники данных об уязвимостях",
+      "description": "Конспект «CVE Mitre и NVD как первичные источники данных об уязвимостях»",
+      "uuid": "306fe79b-a203-45ee-bc55-fd495e4e7101",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Адаптация публичного PoC под целевую среду",
+      "description": "Конспект «Адаптация публичного PoC под целевую среду»",
+      "uuid": "10d4babf-7422-4fc0-b122-15a55e616d93",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Опасные эксплоиты с риском DoS: согласование с заказчиком",
+      "description": "Конспект «Опасные эксплоиты с риском DoS: согласование с заказчиком»",
+      "uuid": "a818aa42-f3a3-4494-a251-e0c6c51d77b0",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Генерация пейлоада через msfvenom",
+      "description": "Конспект «Генерация пейлоада через msfvenom»",
+      "uuid": "14a7ca47-3738-4daf-b117-d4924097ac5c",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Параметры msfvenom: тип payload, формат, LHOST и LPORT",
+      "description": "Конспект «Параметры msfvenom: тип payload, формат, LHOST и LPORT»",
+      "uuid": "7cbfef54-4488-4226-aa10-498a0e5ab6ce",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Форматы вывода msfvenom: exe, dll, raw shellcode, ps1",
+      "description": "Конспект «Форматы вывода msfvenom: exe, dll, raw shellcode, ps1»",
+      "uuid": "f38d360c-5714-42c8-bfda-9addd1606bad",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Staged и stageless payload: компромиссы выбора",
+      "description": "Конспект «Staged и stageless payload: компромиссы выбора»",
+      "uuid": "73b1b3ca-86fd-4faa-b76e-ef4cbf5a7987",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Encoders msfvenom и их ограничения против современных AV",
+      "description": "Конспект «Encoders msfvenom и их ограничения против современных AV»",
+      "uuid": "6909100e-f645-4a85-9e4a-efaa90f6fc3e",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Генерация shellcode через donut для inline-доставки",
+      "description": "Конспект «Генерация shellcode через donut для inline-доставки»",
+      "uuid": "53321ef1-890b-46e0-969f-47290be5e4d0",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Обфускация пейлоада",
+      "description": "Конспект «Обфускация пейлоада»",
+      "uuid": "10303688-3abe-44c0-b005-ffa54b70e779",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Упаковщики типа UPX как базовая обфускация payload",
+      "description": "Конспект «Упаковщики типа UPX как базовая обфускация payload»",
+      "uuid": "8221fa22-81b6-487f-9144-7487992ba9ea",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Обфускация PowerShell-скриптов через Invoke-Obfuscation",
+      "description": "Конспект «Обфускация PowerShell-скриптов через Invoke-Obfuscation»",
+      "uuid": "216699f8-a8c1-48ee-9888-f63d51f4c663",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Reflective loading: запуск payload в памяти без записи на диск",
+      "description": "Конспект «Reflective loading: запуск payload в памяти без записи на диск»",
+      "uuid": "a3f3fe07-531a-446e-88c7-ac961cfdac4b",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "AMSI bypass перед загрузкой PowerShell-payload",
+      "description": "Конспект «AMSI bypass перед загрузкой PowerShell-payload»",
+      "uuid": "741b0910-c1b7-4995-b421-21baa57ed0f8",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "ScareCrow и аналогичные генераторы для обхода AV и EDR",
+      "description": "Конспект «ScareCrow и аналогичные генераторы для обхода AV и EDR»",
+      "uuid": "00c6c02e-f560-44e7-ad1f-b7a6eb299395",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Доставка пейлоада",
+      "description": "Конспект «Доставка пейлоада»",
+      "uuid": "103e5ac1-bee1-4c52-a60c-65065aea809b",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Фишинг с вложением как массовый канал доставки payload",
+      "description": "Конспект «Фишинг с вложением как массовый канал доставки payload»",
+      "uuid": "cd8056ff-a134-49b5-8e97-247165e9f994",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "HTA и LNK файлы как контейнеры запуска payload",
+      "description": "Конспект «HTA и LNK файлы как контейнеры запуска payload»",
+      "uuid": "bf06515c-1fd5-4839-8de3-f8aeefb19f3b",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Office-макросы VBA и legacy XLM как вектор доставки",
+      "description": "Конспект «Office-макросы VBA и legacy XLM как вектор доставки»",
+      "uuid": "b516657a-f848-4296-a270-2297ddd7aec9",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "ISO и IMG обёртки для обхода Mark-of-the-Web",
+      "description": "Конспект «ISO и IMG обёртки для обхода Mark-of-the-Web»",
+      "uuid": "47eac618-b982-4837-9bc6-655d102ef024",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "HTML smuggling: сборка payload в браузере жертвы",
+      "description": "Конспект «HTML smuggling: сборка payload в браузере жертвы»",
+      "uuid": "d4e77a14-91d9-4b80-a6e4-59b26b7bea40",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Drive-by downloads через уязвимости браузера",
+      "description": "Конспект «Drive-by downloads через уязвимости браузера»",
+      "uuid": "56a4413a-d5a2-4495-801f-3bd880339ceb",
+      "task_type": "DEFAULT"
+    },
+    {
+      "name": "Тестирование эксплоита в изолированной лаборатории перед прод-применением",
+      "description": "Конспект «Тестирование эксплоита в изолированной лаборатории перед прод-применением»",
+      "uuid": "b76b1737-32a5-47f8-9c5f-1c362d48070a",
+      "task_type": "DEFAULT"
+    }
+  ],
+  "infoblocks_solved": []
+}

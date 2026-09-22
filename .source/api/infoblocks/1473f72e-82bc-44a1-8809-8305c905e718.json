@@ -1,0 +1,14 @@
+{
+  "name": "SSH Port Forwarding как канал pivot",
+  "description": "Конспект «SSH Port Forwarding как канал pivot»",
+  "uuid": "1473f72e-82bc-44a1-8809-8305c905e718",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2389651390.md",
+      "original_id": "SSH Port Forwarding как канал pivot.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

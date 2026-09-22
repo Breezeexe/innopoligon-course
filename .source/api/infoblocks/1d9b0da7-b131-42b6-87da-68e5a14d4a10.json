@@ -1,0 +1,14 @@
+{
+  "name": "Получение OS shell через --os-shell в sqlmap",
+  "description": "Конспект «Получение OS shell через --os-shell в sqlmap»",
+  "uuid": "1d9b0da7-b131-42b6-87da-68e5a14d4a10",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8174106102.md",
+      "original_id": "Получение OS shell через --os-shell в sqlmap.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

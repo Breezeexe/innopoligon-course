@@ -1,0 +1,14 @@
+{
+  "name": "Список процессов и сетевых соединений",
+  "description": "Конспект «Список процессов и сетевых соединений»",
+  "uuid": "20fb77f3-e2ea-47ec-86e6-a9052f289e41",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4739124968.md",
+      "original_id": "Список процессов и сетевых соединений.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1810,
+  "name": "Практика 7 — Поиск уязвимостей",
+  "description": null,
+  "min_percentage_correct_answers": 80,
+  "attempt": 4,
+  "uuid": "50454e54-4553-542d-5037-000000000000",
+  "mutual": null,
+  "task_type": "PRACTICE",
+  "direct_competencies_tag": "off",
+  "competencies_tags": [
+    "eng",
+    "code"
+  ],
+  "attempts_spent": null,
+  "score": 4,
+  "passed": false
+}

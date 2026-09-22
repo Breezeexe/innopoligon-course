@@ -1,0 +1,14 @@
+{
+  "name": "PsExec от Sysinternals и его следы в логах",
+  "description": "Конспект «PsExec от Sysinternals и его следы в логах»",
+  "uuid": "b7cd2837-45a2-4a11-9b39-3e973c2b7582",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp3708288884.md",
+      "original_id": "PsExec от Sysinternals и его следы в логах.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

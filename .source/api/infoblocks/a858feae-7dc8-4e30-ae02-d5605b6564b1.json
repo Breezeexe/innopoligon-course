@@ -1,0 +1,14 @@
+{
+  "name": "STARTTLS: проверка наличия и downgrade-атаки",
+  "description": "Конспект «STARTTLS: проверка наличия и downgrade-атаки»",
+  "uuid": "a858feae-7dc8-4e30-ae02-d5605b6564b1",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp2324542330.md",
+      "original_id": "STARTTLS： проверка наличия и downgrade-атаки.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

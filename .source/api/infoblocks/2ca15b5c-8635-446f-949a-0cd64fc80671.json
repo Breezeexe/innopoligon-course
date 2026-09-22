@@ -1,0 +1,14 @@
+{
+  "name": "NoSQL Injection в JSON-параметрах запроса",
+  "description": "Конспект «NoSQL Injection в JSON-параметрах запроса»",
+  "uuid": "2ca15b5c-8635-446f-949a-0cd64fc80671",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp8805718436.md",
+      "original_id": "NoSQL Injection в JSON-параметрах запроса.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

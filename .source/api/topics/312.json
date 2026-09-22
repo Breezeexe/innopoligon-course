@@ -1,0 +1,69 @@
+{
+  "id": 312,
+  "name": "Практика",
+  "description": null,
+  "uuid": "50454e54-4553-542d-5052-313100000000",
+  "blocked_topic_uuid": null,
+  "sequences": [
+    {
+      "id": 1210,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1211,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    },
+    {
+      "id": 1212,
+      "type": "CASE_CONTAINER",
+      "position": "DEFAULT"
+    }
+  ],
+  "assignments": [],
+  "topics": [],
+  "case_containers": [
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1210,
+      "name": "Практика - Отчётность по пентесту",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": null,
+      "uuid": "50454e54-4553-542d-5034-320000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1211,
+      "name": "Практика - Risk Rating и приоритизация",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": null,
+      "uuid": "50454e54-4553-542d-5034-330000000000"
+    },
+    {
+      "progress": 0,
+      "fraction_progress": "0/1",
+      "id": 1212,
+      "name": "Практика - Proof of Concept",
+      "business_id": null,
+      "description": null,
+      "tags": null,
+      "shadow_tags": null,
+      "difficult": "easy",
+      "lab_uuid": null,
+      "uuid": "50454e54-4553-542d-5034-340000000000"
+    }
+  ],
+  "infoblocks": [],
+  "infoblocks_solved": []
+}

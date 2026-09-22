@@ -1,0 +1,14 @@
+{
+  "name": "Внешний пентест периметра: цели и типичный scope",
+  "description": "Конспект «Внешний пентест периметра: цели и типичный scope»",
+  "uuid": "b1499f08-50bd-433a-8400-918b5017bea1",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp9706861092.md",
+      "original_id": "Внешний пентест периметра： цели и типичный scope.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Группы LXD и Docker как путь к root через контейнер",
+  "description": "Конспект «Группы LXD и Docker как путь к root через контейнер»",
+  "uuid": "bf29bd5e-bd87-4f0f-9128-9ab35800e0f1",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp6618214690.md",
+      "original_id": "Группы LXD и Docker как путь к root через контейнер.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}

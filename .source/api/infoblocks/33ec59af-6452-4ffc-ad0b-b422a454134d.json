@@ -1,0 +1,14 @@
+{
+  "name": "Извлечение TGT из памяти LSASS",
+  "description": "Конспект «Извлечение TGT из памяти LSASS»",
+  "uuid": "33ec59af-6452-4ffc-ad0b-b422a454134d",
+  "task_type": "DEFAULT",
+  "sequences": [
+    {
+      "id": "tmp4920248474.md",
+      "original_id": "Извлечение TGT из памяти LSASS.md",
+      "hide_tasks": [],
+      "type": "TEACHINGS_FILES"
+    }
+  ]
+}
